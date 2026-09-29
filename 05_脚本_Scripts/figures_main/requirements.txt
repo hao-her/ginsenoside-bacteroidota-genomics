@@ -1,0 +1,12 @@
+# outputs_figures — 绘图轮依赖（在本环境实测可复现全部 8 图 + 色盲验证）
+# 仅标准科学栈，无非标准库（无需 adjustText / brokenaxes / ete3 等）。
+numpy==2.2.6
+pandas==3.0.3
+matplotlib==3.11.0
+Pillow==12.3.0
+
+# 说明：
+# - 字体：优先 Arial / Helvetica；本环境无 Arial 时自动回退到度量兼容的
+#   Liberation Sans（已装 fonts-liberation），字形宽度与 Arial 一致。
+# - 系统发育树（Suppl Fig 2）由脚本内置的极简 newick 解析器读取，不依赖 biopython/ete3。
+# - 色盲模拟（palette/）由 scripts/cvd.py 内置 Machado et al. (2009) 矩阵实现，不依赖 colorspacious。

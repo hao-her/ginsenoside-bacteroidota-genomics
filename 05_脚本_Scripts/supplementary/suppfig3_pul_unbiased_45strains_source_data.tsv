@@ -1,0 +1,233 @@
+# source_data for Suppl Fig 3 — unbiased (all-pairs) PUL enrichment across 45 strains | figure-round (presentation only)
+# rows=229 | all plotted values are read back from this file by the plot stage
+# provenance column gives the upstream read-only file + locator for every value
+block	entity	sub	field	value	num	den	text	provenance
+A_strain	GCF_055385135.1	L1_Bacteroidales	n_pairs	9			Bacteroidales|Prevotella	tables/t3_strain_summary_45.tsv
+A_strain	GCF_055385135.1	L1_Bacteroidales	pairs_with_gh	3				tables/t3_strain_summary_45.tsv
+A_strain	GCF_055385135.1	L1_Bacteroidales	pairs_with_core	1				tables/t3_strain_summary_45.tsv
+A_strain	GCF_055390445.1	L1_Bacteroidales	n_pairs	8			Bacteroidales|Prevotella	tables/t3_strain_summary_45.tsv
+A_strain	GCF_055390445.1	L1_Bacteroidales	pairs_with_gh	1				tables/t3_strain_summary_45.tsv
+A_strain	GCF_055390445.1	L1_Bacteroidales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_055381405.1	L1_Bacteroidales	n_pairs	22			Bacteroidales|Prevotella	tables/t3_strain_summary_45.tsv
+A_strain	GCF_055381405.1	L1_Bacteroidales	pairs_with_gh	4				tables/t3_strain_summary_45.tsv
+A_strain	GCF_055381405.1	L1_Bacteroidales	pairs_with_core	2				tables/t3_strain_summary_45.tsv
+A_strain	GCF_022024115.1	L1_Bacteroidales	n_pairs	5			Bacteroidales|Prevotella	tables/t3_strain_summary_45.tsv
+A_strain	GCF_022024115.1	L1_Bacteroidales	pairs_with_gh	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_022024115.1	L1_Bacteroidales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_025144665.1	L1_Bacteroidales	n_pairs	0			Bacteroidales|Alistipes	tables/t3_strain_summary_45.tsv
+A_strain	GCF_025144665.1	L1_Bacteroidales	pairs_with_gh	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_025144665.1	L1_Bacteroidales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_025145845.1	L1_Bacteroidales	n_pairs	24			Bacteroidales|Alistipes	tables/t3_strain_summary_45.tsv
+A_strain	GCF_025145845.1	L1_Bacteroidales	pairs_with_gh	3				tables/t3_strain_summary_45.tsv
+A_strain	GCF_025145845.1	L1_Bacteroidales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_006542645.1	L1_Bacteroidales	n_pairs	19			Bacteroidales|Alistipes	tables/t3_strain_summary_45.tsv
+A_strain	GCF_006542645.1	L1_Bacteroidales	pairs_with_gh	5				tables/t3_strain_summary_45.tsv
+A_strain	GCF_006542645.1	L1_Bacteroidales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_055384205.1	L1_Bacteroidales	n_pairs	1			Bacteroidales|Porphyromonas	tables/t3_strain_summary_45.tsv
+A_strain	GCF_055384205.1	L1_Bacteroidales	pairs_with_gh	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_055384205.1	L1_Bacteroidales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_036320655.1	L1_Bacteroidales	n_pairs	8			Bacteroidales|Porphyromonas	tables/t3_strain_summary_45.tsv
+A_strain	GCF_036320655.1	L1_Bacteroidales	pairs_with_gh	1				tables/t3_strain_summary_45.tsv
+A_strain	GCF_036320655.1	L1_Bacteroidales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_022845615.1	L1_Bacteroidales	n_pairs	4			Bacteroidales|Porphyromonas	tables/t3_strain_summary_45.tsv
+A_strain	GCF_022845615.1	L1_Bacteroidales	pairs_with_gh	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_022845615.1	L1_Bacteroidales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_988233775.1	L1_Bacteroidales	n_pairs	17			Bacteroidales|Odoribacter	tables/t3_strain_summary_45.tsv
+A_strain	GCF_988233775.1	L1_Bacteroidales	pairs_with_gh	1				tables/t3_strain_summary_45.tsv
+A_strain	GCF_988233775.1	L1_Bacteroidales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_000243215.1	L1_Bacteroidales	n_pairs	7			Bacteroidales|Odoribacter	tables/t3_strain_summary_45.tsv
+A_strain	GCF_000243215.1	L1_Bacteroidales	pairs_with_gh	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_000243215.1	L1_Bacteroidales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_003479425.1	L1_Bacteroidales	n_pairs	32			Bacteroidales|Odoribacter	tables/t3_strain_summary_45.tsv
+A_strain	GCF_003479425.1	L1_Bacteroidales	pairs_with_gh	2				tables/t3_strain_summary_45.tsv
+A_strain	GCF_003479425.1	L1_Bacteroidales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_988228745.1	L1_Bacteroidales	n_pairs	13			Bacteroidales|Barnesiella	tables/t3_strain_summary_45.tsv
+A_strain	GCF_988228745.1	L1_Bacteroidales	pairs_with_gh	5				tables/t3_strain_summary_45.tsv
+A_strain	GCF_988228745.1	L1_Bacteroidales	pairs_with_core	2				tables/t3_strain_summary_45.tsv
+A_strain	GCF_023656675.1	L1_Bacteroidales	n_pairs	12			Bacteroidales|Barnesiella	tables/t3_strain_summary_45.tsv
+A_strain	GCF_023656675.1	L1_Bacteroidales	pairs_with_gh	5				tables/t3_strain_summary_45.tsv
+A_strain	GCF_023656675.1	L1_Bacteroidales	pairs_with_core	2				tables/t3_strain_summary_45.tsv
+A_strain	GCF_988228865.1	L1_Bacteroidales	n_pairs	13			Bacteroidales|Barnesiella	tables/t3_strain_summary_45.tsv
+A_strain	GCF_988228865.1	L1_Bacteroidales	pairs_with_gh	5				tables/t3_strain_summary_45.tsv
+A_strain	GCF_988228865.1	L1_Bacteroidales	pairs_with_core	2				tables/t3_strain_summary_45.tsv
+A_strain	GCF_055386955.1	L1_Bacteroidales	n_pairs	14			Bacteroidales|Phocaeicola	tables/t3_strain_summary_45.tsv
+A_strain	GCF_055386955.1	L1_Bacteroidales	pairs_with_gh	3				tables/t3_strain_summary_45.tsv
+A_strain	GCF_055386955.1	L1_Bacteroidales	pairs_with_core	1				tables/t3_strain_summary_45.tsv
+A_strain	GCF_016888945.1	L1_Bacteroidales	n_pairs	12			Bacteroidales|Phocaeicola	tables/t3_strain_summary_45.tsv
+A_strain	GCF_016888945.1	L1_Bacteroidales	pairs_with_gh	5				tables/t3_strain_summary_45.tsv
+A_strain	GCF_016888945.1	L1_Bacteroidales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_013009555.1	L1_Bacteroidales	n_pairs	39			Bacteroidales|Phocaeicola	tables/t3_strain_summary_45.tsv
+A_strain	GCF_013009555.1	L1_Bacteroidales	pairs_with_gh	21				tables/t3_strain_summary_45.tsv
+A_strain	GCF_013009555.1	L1_Bacteroidales	pairs_with_core	1				tables/t3_strain_summary_45.tsv
+A_strain	GCF_001717525.2	L1_Bacteroidales	n_pairs	7			Bacteroidales|Tannerella	tables/t3_strain_summary_45.tsv
+A_strain	GCF_001717525.2	L1_Bacteroidales	pairs_with_gh	1				tables/t3_strain_summary_45.tsv
+A_strain	GCF_001717525.2	L1_Bacteroidales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_000238215.1	L1_Bacteroidales	n_pairs	22			Bacteroidales|Tannerella	tables/t3_strain_summary_45.tsv
+A_strain	GCF_000238215.1	L1_Bacteroidales	pairs_with_gh	2				tables/t3_strain_summary_45.tsv
+A_strain	GCF_000238215.1	L1_Bacteroidales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_001547855.1	L1_Bacteroidales	n_pairs	21			Bacteroidales|Tannerella	tables/t3_strain_summary_45.tsv
+A_strain	GCF_001547855.1	L1_Bacteroidales	pairs_with_gh	1				tables/t3_strain_summary_45.tsv
+A_strain	GCF_001547855.1	L1_Bacteroidales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_000427365.1	L1_Bacteroidales	n_pairs	1			Bacteroidales|Rikenella	tables/t3_strain_summary_45.tsv
+A_strain	GCF_000427365.1	L1_Bacteroidales	pairs_with_gh	1				tables/t3_strain_summary_45.tsv
+A_strain	GCF_000427365.1	L1_Bacteroidales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_001688845.2	L1_Bacteroidales	n_pairs	12			Bacteroidales|Muribaculum	tables/t3_strain_summary_45.tsv
+A_strain	GCF_001688845.2	L1_Bacteroidales	pairs_with_gh	4				tables/t3_strain_summary_45.tsv
+A_strain	GCF_001688845.2	L1_Bacteroidales	pairs_with_core	2				tables/t3_strain_summary_45.tsv
+A_strain	GCF_004803695.1	L1_Bacteroidales	n_pairs	11			Bacteroidales|Muribaculum	tables/t3_strain_summary_45.tsv
+A_strain	GCF_004803695.1	L1_Bacteroidales	pairs_with_gh	6				tables/t3_strain_summary_45.tsv
+A_strain	GCF_004803695.1	L1_Bacteroidales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_058596255.1	L1_Bacteroidales	n_pairs	3			Bacteroidales|Muribaculum	tables/t3_strain_summary_45.tsv
+A_strain	GCF_058596255.1	L1_Bacteroidales	pairs_with_gh	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_058596255.1	L1_Bacteroidales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_057180085.1	L2_Flavobacteriales	n_pairs	8			Flavobacteriales|Flavobacterium	tables/t3_strain_summary_45.tsv
+A_strain	GCF_057180085.1	L2_Flavobacteriales	pairs_with_gh	1				tables/t3_strain_summary_45.tsv
+A_strain	GCF_057180085.1	L2_Flavobacteriales	pairs_with_core	1				tables/t3_strain_summary_45.tsv
+A_strain	GCF_048282555.1	L2_Flavobacteriales	n_pairs	20			Flavobacteriales|Flavobacterium	tables/t3_strain_summary_45.tsv
+A_strain	GCF_048282555.1	L2_Flavobacteriales	pairs_with_gh	12				tables/t3_strain_summary_45.tsv
+A_strain	GCF_048282555.1	L2_Flavobacteriales	pairs_with_core	6				tables/t3_strain_summary_45.tsv
+A_strain	GCF_047038255.1	L2_Flavobacteriales	n_pairs	4			Flavobacteriales|Flavobacterium	tables/t3_strain_summary_45.tsv
+A_strain	GCF_047038255.1	L2_Flavobacteriales	pairs_with_gh	1				tables/t3_strain_summary_45.tsv
+A_strain	GCF_047038255.1	L2_Flavobacteriales	pairs_with_core	1				tables/t3_strain_summary_45.tsv
+A_strain	GCF_042182265.1	L2_Flavobacteriales	n_pairs	1			Flavobacteriales|Flavobacterium	tables/t3_strain_summary_45.tsv
+A_strain	GCF_042182265.1	L2_Flavobacteriales	pairs_with_gh	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_042182265.1	L2_Flavobacteriales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_040703125.1	L2_Flavobacteriales	n_pairs	12			Flavobacteriales|Flavobacterium	tables/t3_strain_summary_45.tsv
+A_strain	GCF_040703125.1	L2_Flavobacteriales	pairs_with_gh	7				tables/t3_strain_summary_45.tsv
+A_strain	GCF_040703125.1	L2_Flavobacteriales	pairs_with_core	1				tables/t3_strain_summary_45.tsv
+A_strain	GCF_043187445.1	L2_Flavobacteriales	n_pairs	8			Flavobacteriales|Capnocytophaga	tables/t3_strain_summary_45.tsv
+A_strain	GCF_043187445.1	L2_Flavobacteriales	pairs_with_gh	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_043187445.1	L2_Flavobacteriales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_002302415.1	L2_Flavobacteriales	n_pairs	3			Flavobacteriales|Capnocytophaga	tables/t3_strain_summary_45.tsv
+A_strain	GCF_002302415.1	L2_Flavobacteriales	pairs_with_gh	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_002302415.1	L2_Flavobacteriales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_002302475.1	L2_Flavobacteriales	n_pairs	8			Flavobacteriales|Capnocytophaga	tables/t3_strain_summary_45.tsv
+A_strain	GCF_002302475.1	L2_Flavobacteriales	pairs_with_gh	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_002302475.1	L2_Flavobacteriales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_050990625.1	L2_Flavobacteriales	n_pairs	6			Flavobacteriales|Chryseobacterium	tables/t3_strain_summary_45.tsv
+A_strain	GCF_050990625.1	L2_Flavobacteriales	pairs_with_gh	1				tables/t3_strain_summary_45.tsv
+A_strain	GCF_050990625.1	L2_Flavobacteriales	pairs_with_core	1				tables/t3_strain_summary_45.tsv
+A_strain	GCF_030012525.1	L2_Flavobacteriales	n_pairs	6			Flavobacteriales|Chryseobacterium	tables/t3_strain_summary_45.tsv
+A_strain	GCF_030012525.1	L2_Flavobacteriales	pairs_with_gh	1				tables/t3_strain_summary_45.tsv
+A_strain	GCF_030012525.1	L2_Flavobacteriales	pairs_with_core	1				tables/t3_strain_summary_45.tsv
+A_strain	GCF_027945075.1	L2_Flavobacteriales	n_pairs	10			Flavobacteriales|Chryseobacterium	tables/t3_strain_summary_45.tsv
+A_strain	GCF_027945075.1	L2_Flavobacteriales	pairs_with_gh	3				tables/t3_strain_summary_45.tsv
+A_strain	GCF_027945075.1	L2_Flavobacteriales	pairs_with_core	2				tables/t3_strain_summary_45.tsv
+A_strain	GCF_976997495.1	L3_Sphingobacteriales	n_pairs	24			Sphingobacteriales|Sphingobacterium	tables/t3_strain_summary_45.tsv
+A_strain	GCF_976997495.1	L3_Sphingobacteriales	pairs_with_gh	3				tables/t3_strain_summary_45.tsv
+A_strain	GCF_976997495.1	L3_Sphingobacteriales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_050986225.1	L3_Sphingobacteriales	n_pairs	58			Sphingobacteriales|Sphingobacterium	tables/t3_strain_summary_45.tsv
+A_strain	GCF_050986225.1	L3_Sphingobacteriales	pairs_with_gh	14				tables/t3_strain_summary_45.tsv
+A_strain	GCF_050986225.1	L3_Sphingobacteriales	pairs_with_core	2				tables/t3_strain_summary_45.tsv
+A_strain	GCF_054461315.1	L3_Sphingobacteriales	n_pairs	12			Sphingobacteriales|Pedobacter	tables/t3_strain_summary_45.tsv
+A_strain	GCF_054461315.1	L3_Sphingobacteriales	pairs_with_gh	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_054461315.1	L3_Sphingobacteriales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_052343045.1	L3_Sphingobacteriales	n_pairs	42			Sphingobacteriales|Pedobacter	tables/t3_strain_summary_45.tsv
+A_strain	GCF_052343045.1	L3_Sphingobacteriales	pairs_with_gh	8				tables/t3_strain_summary_45.tsv
+A_strain	GCF_052343045.1	L3_Sphingobacteriales	pairs_with_core	2				tables/t3_strain_summary_45.tsv
+A_strain	GCF_000014145.1	L3_Cytophagales	n_pairs	1			Cytophagales|Cytophaga	tables/t3_strain_summary_45.tsv
+A_strain	GCF_000014145.1	L3_Cytophagales	pairs_with_gh	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_000014145.1	L3_Cytophagales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_000379725.1	L3_Cytophagales	n_pairs	0			Cytophagales|Cytophaga	tables/t3_strain_summary_45.tsv
+A_strain	GCF_000379725.1	L3_Cytophagales	pairs_with_gh	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_000379725.1	L3_Cytophagales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_021233055.1	L3_Cytophagales	n_pairs	33			Cytophagales|Spirosoma	tables/t3_strain_summary_45.tsv
+A_strain	GCF_021233055.1	L3_Cytophagales	pairs_with_gh	2				tables/t3_strain_summary_45.tsv
+A_strain	GCF_021233055.1	L3_Cytophagales	pairs_with_core	0				tables/t3_strain_summary_45.tsv
+A_strain	GCF_023821985.2	L3_Cytophagales	n_pairs	35			Cytophagales|Dyadobacter	tables/t3_strain_summary_45.tsv
+A_strain	GCF_023821985.2	L3_Cytophagales	pairs_with_gh	4				tables/t3_strain_summary_45.tsv
+A_strain	GCF_023821985.2	L3_Cytophagales	pairs_with_core	3				tables/t3_strain_summary_45.tsv
+B_layer	all45_core	all45	observed	33				tables/t3_null45_aggregate.tsv
+B_layer	all45_core	all45	n_pairs	627				tables/t3_null45_aggregate.tsv
+B_layer	all45_core	all45	null_mean	17.994				tables/t3_null45_aggregate.tsv
+B_layer	all45_core	all45	null_sd	4.118126272954728				tables/t3_null45_aggregate.tsv
+B_layer	all45_core	all45	null_p02_5	11.0				tables/t3_null45_aggregate.tsv
+B_layer	all45_core	all45	null_p97_5	27.0				tables/t3_null45_aggregate.tsv
+B_layer	all45_core	all45	enrichment_ratio	1.833944648216072				tables/t3_null45_aggregate.tsv
+B_layer	all45_core	all45	empirical_p_one_sided_ge	0.0019990004997501				tables/t3_null45_aggregate.tsv
+B_layer	all45_GH3	all45	observed	33				tables/t3_null45_aggregate.tsv
+B_layer	all45_GH3	all45	n_pairs	627				tables/t3_null45_aggregate.tsv
+B_layer	all45_GH3	all45	null_mean	16.4845				tables/t3_null45_aggregate.tsv
+B_layer	all45_GH3	all45	null_sd	3.9735072354281673				tables/t3_null45_aggregate.tsv
+B_layer	all45_GH3	all45	null_p02_5	9.0				tables/t3_null45_aggregate.tsv
+B_layer	all45_GH3	all45	null_p97_5	25.0				tables/t3_null45_aggregate.tsv
+B_layer	all45_GH3	all45	enrichment_ratio	2.0018805544602505				tables/t3_null45_aggregate.tsv
+B_layer	all45_GH3	all45	empirical_p_one_sided_ge	0.0004997501249375				tables/t3_null45_aggregate.tsv
+B_layer	all45_GH2	all45	observed	80				tables/t3_null45_aggregate.tsv
+B_layer	all45_GH2	all45	n_pairs	627				tables/t3_null45_aggregate.tsv
+B_layer	all45_GH2	all45	null_mean	31.198				tables/t3_null45_aggregate.tsv
+B_layer	all45_GH2	all45	null_sd	5.344043038748846				tables/t3_null45_aggregate.tsv
+B_layer	all45_GH2	all45	null_p02_5	21.0				tables/t3_null45_aggregate.tsv
+B_layer	all45_GH2	all45	null_p97_5	42.0				tables/t3_null45_aggregate.tsv
+B_layer	all45_GH2	all45	enrichment_ratio	2.5642669401884737				tables/t3_null45_aggregate.tsv
+B_layer	all45_GH2	all45	empirical_p_one_sided_ge	0.0004997501249375				tables/t3_null45_aggregate.tsv
+B_layer	all45_side	all45	observed	50				tables/t3_null45_aggregate.tsv
+B_layer	all45_side	all45	n_pairs	627				tables/t3_null45_aggregate.tsv
+B_layer	all45_side	all45	null_mean	19.535				tables/t3_null45_aggregate.tsv
+B_layer	all45_side	all45	null_sd	4.316453984464563				tables/t3_null45_aggregate.tsv
+B_layer	all45_side	all45	null_p02_5	12.0				tables/t3_null45_aggregate.tsv
+B_layer	all45_side	all45	null_p97_5	28.0				tables/t3_null45_aggregate.tsv
+B_layer	all45_side	all45	enrichment_ratio	2.5595085743537243				tables/t3_null45_aggregate.tsv
+B_layer	all45_side	all45	empirical_p_one_sided_ge	0.0004997501249375				tables/t3_null45_aggregate.tsv
+B_layer	all45_any	all45	observed	136				tables/t3_null45_aggregate.tsv
+B_layer	all45_any	all45	n_pairs	627				tables/t3_null45_aggregate.tsv
+B_layer	all45_any	all45	null_mean	61.699				tables/t3_null45_aggregate.tsv
+B_layer	all45_any	all45	null_sd	7.402188797916465				tables/t3_null45_aggregate.tsv
+B_layer	all45_any	all45	null_p02_5	48.0				tables/t3_null45_aggregate.tsv
+B_layer	all45_any	all45	null_p97_5	77.0				tables/t3_null45_aggregate.tsv
+B_layer	all45_any	all45	enrichment_ratio	2.204249663689849				tables/t3_null45_aggregate.tsv
+B_layer	all45_any	all45	empirical_p_one_sided_ge	0.0004997501249375				tables/t3_null45_aggregate.tsv
+B_layer	L1_Bacteroidales_any	L1_Bacteroidales	observed	79				tables/t3_null45_perlayer.tsv
+B_layer	L1_Bacteroidales_any	L1_Bacteroidales	n_pairs	336				tables/t3_null45_perlayer.tsv
+B_layer	L1_Bacteroidales_any	L1_Bacteroidales	null_mean	37.0645				tables/t3_null45_perlayer.tsv
+B_layer	L1_Bacteroidales_any	L1_Bacteroidales	null_sd	5.619282850150898				tables/t3_null45_perlayer.tsv
+B_layer	L1_Bacteroidales_any	L1_Bacteroidales	enrichment_ratio	2.1314195524018937				tables/t3_null45_perlayer.tsv
+B_layer	L1_Bacteroidales_any	L1_Bacteroidales	empirical_p_one_sided_ge	0.0004997501249375				tables/t3_null45_perlayer.tsv
+B_layer	L1_Bacteroidales_core	L1_Bacteroidales	observed	13				tables/t3_null45_perlayer.tsv
+B_layer	L1_Bacteroidales_core	L1_Bacteroidales	n_pairs	336				tables/t3_null45_perlayer.tsv
+B_layer	L1_Bacteroidales_core	L1_Bacteroidales	null_mean	9.8425				tables/t3_null45_perlayer.tsv
+B_layer	L1_Bacteroidales_core	L1_Bacteroidales	null_sd	3.122930314624392				tables/t3_null45_perlayer.tsv
+B_layer	L1_Bacteroidales_core	L1_Bacteroidales	enrichment_ratio	1.3208026416052834				tables/t3_null45_perlayer.tsv
+B_layer	L1_Bacteroidales_core	L1_Bacteroidales	empirical_p_one_sided_ge	0.1934032983508246				tables/t3_null45_perlayer.tsv
+B_layer	L2_Flavobacteriales_any	L2_Flavobacteriales	observed	26				tables/t3_null45_perlayer.tsv
+B_layer	L2_Flavobacteriales_any	L2_Flavobacteriales	n_pairs	86				tables/t3_null45_perlayer.tsv
+B_layer	L2_Flavobacteriales_any	L2_Flavobacteriales	null_mean	6.1045				tables/t3_null45_perlayer.tsv
+B_layer	L2_Flavobacteriales_any	L2_Flavobacteriales	null_sd	2.318745296491186				tables/t3_null45_perlayer.tsv
+B_layer	L2_Flavobacteriales_any	L2_Flavobacteriales	enrichment_ratio	4.259153083790646				tables/t3_null45_perlayer.tsv
+B_layer	L2_Flavobacteriales_any	L2_Flavobacteriales	empirical_p_one_sided_ge	0.0004997501249375				tables/t3_null45_perlayer.tsv
+B_layer	L2_Flavobacteriales_core	L2_Flavobacteriales	observed	13				tables/t3_null45_perlayer.tsv
+B_layer	L2_Flavobacteriales_core	L2_Flavobacteriales	n_pairs	86				tables/t3_null45_perlayer.tsv
+B_layer	L2_Flavobacteriales_core	L2_Flavobacteriales	null_mean	3.1485				tables/t3_null45_perlayer.tsv
+B_layer	L2_Flavobacteriales_core	L2_Flavobacteriales	null_sd	1.7112707997275007				tables/t3_null45_perlayer.tsv
+B_layer	L2_Flavobacteriales_core	L2_Flavobacteriales	enrichment_ratio	4.128950293790695				tables/t3_null45_perlayer.tsv
+B_layer	L2_Flavobacteriales_core	L2_Flavobacteriales	empirical_p_one_sided_ge	0.0004997501249375				tables/t3_null45_perlayer.tsv
+B_layer	L3_Cytophagales_any	L3_Cytophagales	observed	6				tables/t3_null45_perlayer.tsv
+B_layer	L3_Cytophagales_any	L3_Cytophagales	n_pairs	69				tables/t3_null45_perlayer.tsv
+B_layer	L3_Cytophagales_any	L3_Cytophagales	null_mean	4.7015				tables/t3_null45_perlayer.tsv
+B_layer	L3_Cytophagales_any	L3_Cytophagales	null_sd	2.106750519164526				tables/t3_null45_perlayer.tsv
+B_layer	L3_Cytophagales_any	L3_Cytophagales	enrichment_ratio	1.276188450494523				tables/t3_null45_perlayer.tsv
+B_layer	L3_Cytophagales_any	L3_Cytophagales	empirical_p_one_sided_ge	0.3278360819590205				tables/t3_null45_perlayer.tsv
+B_layer	L3_Cytophagales_core	L3_Cytophagales	observed	3				tables/t3_null45_perlayer.tsv
+B_layer	L3_Cytophagales_core	L3_Cytophagales	n_pairs	69				tables/t3_null45_perlayer.tsv
+B_layer	L3_Cytophagales_core	L3_Cytophagales	null_mean	1.35				tables/t3_null45_perlayer.tsv
+B_layer	L3_Cytophagales_core	L3_Cytophagales	null_sd	1.1603878661895772				tables/t3_null45_perlayer.tsv
+B_layer	L3_Cytophagales_core	L3_Cytophagales	enrichment_ratio	2.222222222222222				tables/t3_null45_perlayer.tsv
+B_layer	L3_Cytophagales_core	L3_Cytophagales	empirical_p_one_sided_ge	0.1419290354822588				tables/t3_null45_perlayer.tsv
+B_layer	L3_Sphingobacteriales_any	L3_Sphingobacteriales	observed	25				tables/t3_null45_perlayer.tsv
+B_layer	L3_Sphingobacteriales_any	L3_Sphingobacteriales	n_pairs	136				tables/t3_null45_perlayer.tsv
+B_layer	L3_Sphingobacteriales_any	L3_Sphingobacteriales	null_mean	13.8285				tables/t3_null45_perlayer.tsv
+B_layer	L3_Sphingobacteriales_any	L3_Sphingobacteriales	null_sd	3.5682051160212187				tables/t3_null45_perlayer.tsv
+B_layer	L3_Sphingobacteriales_any	L3_Sphingobacteriales	enrichment_ratio	1.8078605777922407				tables/t3_null45_perlayer.tsv
+B_layer	L3_Sphingobacteriales_any	L3_Sphingobacteriales	empirical_p_one_sided_ge	0.0029985007496251				tables/t3_null45_perlayer.tsv
+B_layer	L3_Sphingobacteriales_core	L3_Sphingobacteriales	observed	4				tables/t3_null45_perlayer.tsv
+B_layer	L3_Sphingobacteriales_core	L3_Sphingobacteriales	n_pairs	136				tables/t3_null45_perlayer.tsv
+B_layer	L3_Sphingobacteriales_core	L3_Sphingobacteriales	null_mean	3.653				tables/t3_null45_perlayer.tsv
+B_layer	L3_Sphingobacteriales_core	L3_Sphingobacteriales	null_sd	1.8299155718229188				tables/t3_null45_perlayer.tsv
+B_layer	L3_Sphingobacteriales_core	L3_Sphingobacteriales	enrichment_ratio	1.0949904188338353				tables/t3_null45_perlayer.tsv
+B_layer	L3_Sphingobacteriales_core	L3_Sphingobacteriales	empirical_p_one_sided_ge	0.5037481259370314				tables/t3_null45_perlayer.tsv
+meta	er_ref	no_enrichment	value	1.0				definition
+meta	er_ref	decision	value	2.0				round8/9 criteria C3
+meta	layer_order	0	name				L1_Bacteroidales	round9 t3 layer definition
+meta	layer_order	1	name				L2_Flavobacteriales	round9 t3 layer definition
+meta	layer_order	2	name				L3_Cytophagales	round9 t3 layer definition
+meta	layer_order	3	name				L3_Sphingobacteriales	round9 t3 layer definition

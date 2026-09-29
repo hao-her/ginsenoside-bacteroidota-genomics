@@ -1,0 +1,198 @@
+# source_data for Suppl Fig 1 — GH1 detection across e-value thresholds (63 Bacteroidales) | figure-round (presentation only)
+# rows=194 | all plotted values are read back from this file by the plot stage
+# provenance column gives the upstream read-only file + locator for every value
+block	entity	sub	field	value	num	den	text	provenance
+A_curve	official_full_filter	0	1e-15	0				t5_gh23_control_curves.tsv
+B_control	GH1	0	1e-15	0				t5_gh23_control_curves.tsv
+B_control_proteins	GH1	0	1e-15	0				t5_gh23_control_curves.tsv
+A_curve	official_full_filter	1	1e-10	0				t5_gh23_control_curves.tsv
+B_control	GH1	1	1e-10	0				t5_gh23_control_curves.tsv
+B_control_proteins	GH1	1	1e-10	0				t5_gh23_control_curves.tsv
+A_curve	official_full_filter	2	1e-05	0				t5_gh23_control_curves.tsv
+B_control	GH1	2	1e-05	0				t5_gh23_control_curves.tsv
+B_control_proteins	GH1	2	1e-05	0				t5_gh23_control_curves.tsv
+A_curve	official_full_filter	3	0.001	0				t5_gh23_control_curves.tsv
+B_control	GH1	3	0.001	0				t5_gh23_control_curves.tsv
+B_control_proteins	GH1	3	0.001	0				t5_gh23_control_curves.tsv
+B_control	GH2	0	1e-15	60				t5_gh23_control_curves.tsv
+B_control_proteins	GH2	0	1e-15	969				t5_gh23_control_curves.tsv
+B_control	GH2	1	1e-10	60				t5_gh23_control_curves.tsv
+B_control_proteins	GH2	1	1e-10	969				t5_gh23_control_curves.tsv
+B_control	GH2	2	1e-05	60				t5_gh23_control_curves.tsv
+B_control_proteins	GH2	2	1e-05	970				t5_gh23_control_curves.tsv
+B_control	GH2	3	0.001	60				t5_gh23_control_curves.tsv
+B_control_proteins	GH2	3	0.001	970				t5_gh23_control_curves.tsv
+B_control	GH3	0	1e-15	62				t5_gh23_control_curves.tsv
+B_control_proteins	GH3	0	1e-15	492				t5_gh23_control_curves.tsv
+B_control	GH3	1	1e-10	62				t5_gh23_control_curves.tsv
+B_control_proteins	GH3	1	1e-10	492				t5_gh23_control_curves.tsv
+B_control	GH3	2	1e-05	62				t5_gh23_control_curves.tsv
+B_control_proteins	GH3	2	1e-05	492				t5_gh23_control_curves.tsv
+B_control	GH3	3	0.001	62				t5_gh23_control_curves.tsv
+B_control_proteins	GH3	3	0.001	492				t5_gh23_control_curves.tsv
+A_curve	A_official_full_filters	0	1e-15	0				t5_gh1_threshold_curve.tsv
+A_curve	A_official_full_filters	1	1e-10	0				t5_gh1_threshold_curve.tsv
+A_curve	A_official_full_filters	2	1e-05	3				t5_gh1_threshold_curve.tsv
+A_curve	A_official_full_filters	3	0.001	4				t5_gh1_threshold_curve.tsv
+A_curve	B_ievalue_only_no_cov	0	1e-15	0				t5_gh1_threshold_curve.tsv
+A_curve	B_ievalue_only_no_cov	1	1e-10	0				t5_gh1_threshold_curve.tsv
+A_curve	B_ievalue_only_no_cov	2	1e-05	12				t5_gh1_threshold_curve.tsv
+A_curve	B_ievalue_only_no_cov	3	0.001	24				t5_gh1_threshold_curve.tsv
+A_tail	B_ievalue_only_no_cov		strains	25			[1e-3,1) tail (context only)	t5_gh1_threshold_curve.tsv
+C_fragments	GCF_023656675.1	0	coverage	0.289044289044289			WP_250792542.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_023656675.1	0	ie	6.843720558210378e-09			WP_250792542.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_988228745.1	1	coverage	0.289044289044289			WP_195634073.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_988228745.1	1	ie	7.108511521572009e-09			WP_195634073.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_988228865.1	2	coverage	0.289044289044289			WP_195634073.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_988228865.1	2	ie	7.108511521572009e-09			WP_195634073.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_054506995.1	3	coverage	0.2517482517482518			WP_459189479.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_054506995.1	3	ie	1.1218895534992914e-08			WP_459189479.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_001314995.1	4	coverage	0.2517482517482518			WP_004298400.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_001314995.1	4	ie	2.4796132767136368e-08			WP_004298400.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_009193295.2	5	coverage	0.2377622377622377			WP_143258925.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_009193295.2	5	ie	2.690662606966924e-08			WP_143258925.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_009193295.2	6	coverage	0.3776223776223776			WP_223225912.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_009193295.2	6	ie	2.956009781045661e-07			WP_223225912.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000512915.1	7	coverage	0.282051282051282			WP_025278190.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000512915.1	7	ie	4.641024830116923e-07			WP_025278190.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000172175.1	8	coverage	0.3403263403263403			WP_007661425.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000172175.1	8	ie	5.131233978854267e-07			WP_007661425.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_034654355.2	9	coverage	0.1561771561771562			WP_322932399.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_034654355.2	9	ie	1.7249733076791837e-06			WP_322932399.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_019930665.1	10	coverage	0.1561771561771562			WP_195349545.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_019930665.1	10	ie	1.7249733076791837e-06			WP_195349545.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_055398035.1	11	coverage	0.7622377622377622			WP_183208002.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_055398035.1	11	ie	1.8987401820200863e-06			WP_183208002.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_036416795.1	12	coverage	0.372960372960373			WP_330941531.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_036416795.1	12	ie	2.8300411531976938e-06			WP_330941531.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_988228745.1	13	coverage	0.1515151515151515			WP_008862221.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_988228745.1	13	ie	3.0771571064596475e-06			WP_008862221.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_988228865.1	14	coverage	0.1515151515151515			WP_008862221.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_988228865.1	14	ie	3.0771571064596475e-06			WP_008862221.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_001314995.1	15	coverage	0.2261072261072261			WP_004298404.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_001314995.1	15	ie	4.5786277789795295e-06			WP_004298404.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_988228745.1	16	coverage	0.1421911421911421			WP_195634646.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_988228745.1	16	ie	7.310850258869584e-06			WP_195634646.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_988228865.1	17	coverage	0.1421911421911421			WP_195634646.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_988228865.1	17	ie	7.310850258869584e-06			WP_195634646.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_036416795.1	18	coverage	0.2494172494172494			WP_330941978.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_036416795.1	18	ie	7.956900265606705e-06			WP_330941978.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_018292125.1	19	coverage	0.372960372960373			WP_195507791.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_018292125.1	19	ie	1.0102943114251918e-05			WP_195507791.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_009193295.2	20	coverage	0.1468531468531468			WP_143258923.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_009193295.2	20	ie	1.879988378661156e-05			WP_143258923.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_033042785.2	21	coverage	0.2727272727272727			WP_005779150.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_033042785.2	21	ie	2.681356485993934e-05			WP_005779150.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_055386955.1	22	coverage	0.1701631701631701			WP_464643708.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_055386955.1	22	ie	7.337735497438668e-05			WP_464643708.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_018292125.1	23	coverage	0.2354312354312354			WP_192915010.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_018292125.1	23	ie	7.815115251579228e-05			WP_192915010.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000190575.1	24	coverage	0.1678321678321678			WP_065757460.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000190575.1	24	ie	7.939122401150937e-05			WP_065757460.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_049860805.1	25	coverage	0.1678321678321678			WP_425884152.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_049860805.1	25	ie	0.0001504039618554			WP_425884152.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000243215.1	26	coverage	0.2727272727272727			WP_009137415.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000243215.1	26	ie	0.0001902803472137			WP_009137415.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_036416795.1	27	coverage	0.1515151515151515			WP_330942288.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_036416795.1	27	ie	0.0002196219987196			WP_330942288.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_016888945.1	28	coverage	0.1375291375291375			WP_162231611.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_016888945.1	28	ie	0.0002286425433409			WP_162231611.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000172175.1	29	coverage	0.1491841491841491			WP_021968262.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000172175.1	29	ie	0.0003134895994824			WP_021968262.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_014131755.1	30	coverage	0.247086247086247			WP_011109367.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_014131755.1	30	ie	0.0003167012706267			WP_011109367.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_013009555.1	31	coverage	0.31002331002331			WP_007834676.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_013009555.1	31	ie	0.0005342524722266			WP_007834676.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_018292125.1	32	coverage	0.1515151515151515			WP_195507870.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_018292125.1	32	ie	0.0005887932843165			WP_195507870.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_055381405.1	33	coverage	0.2657342657342657			WP_464716981.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_055381405.1	33	ie	0.0007934810211457			WP_464716981.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000238215.1	34	coverage	0.1515151515151515			WP_231964054.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000238215.1	34	ie	0.0009261270966719			WP_231964054.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_001547855.1	35	coverage	0.1515151515151515			WP_231964054.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_001547855.1	35	ie	0.0009261270966719			WP_231964054.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_018292125.1	36	coverage	0.1445221445221445			WP_129615652.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_018292125.1	36	ie	0.0016516038934948			WP_129615652.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_048319815.1	37	coverage	0.1748251748251748			WP_418213218.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_048319815.1	37	ie	0.0017291196224558			WP_418213218.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_031172035.1	38	coverage	0.1724941724941724			WP_055294296.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_031172035.1	38	ie	0.0018664649784045			WP_055294296.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_022024115.1	39	coverage	0.1165501165501165			WP_237794890.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_022024115.1	39	ie	0.0028550253334066			WP_237794890.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000025985.1	40	coverage	0.2703962703962704			WP_374938965.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000025985.1	40	ie	0.0036147603106174			WP_374938965.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_055386955.1	41	coverage	0.2121212121212121			WP_024994622.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_055386955.1	41	ie	0.0042117459883534			WP_024994622.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_055381405.1	42	coverage	0.0932400932400932			WP_464716264.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_055381405.1	42	ie	0.0052304372981028			WP_464716264.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_012113595.1	43	coverage	0.1724941724941724			WP_167961237.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_012113595.1	43	ie	0.0057591917682931			WP_167961237.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_001688845.2	44	coverage	0.2377622377622377			WP_068961015.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_001688845.2	44	ie	0.0070038969185709			WP_068961015.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000238215.1	45	coverage	0.3123543123543124			WP_014224429.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000238215.1	45	ie	0.0072541105456952			WP_014224429.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_001547855.1	46	coverage	0.3123543123543124			WP_060830969.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_001547855.1	46	ie	0.0072541105456952			WP_060830969.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000243215.1	47	coverage	0.0792540792540792			WP_009135359.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000243215.1	47	ie	0.0078561115767739			WP_009135359.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000190575.1	48	coverage	0.1212121212121212			WP_013617748.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000190575.1	48	ie	0.0090084757892311			WP_013617748.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_988228865.1	49	coverage	0.2237762237762237			WP_418929443.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_988228865.1	49	ie	0.009128034500016			WP_418929443.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_988228745.1	50	coverage	0.2237762237762237			WP_418929443.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_988228745.1	50	ie	0.009128034500016			WP_418929443.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_001547855.1	51	coverage	0.2657342657342657			WP_155642626.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_001547855.1	51	ie	0.0136974211044098			WP_155642626.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000238215.1	52	coverage	0.2657342657342657			WP_157755354.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000238215.1	52	ie	0.014808652097861			WP_157755354.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_019930665.1	53	coverage	0.1655011655011655			WP_223382051.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_019930665.1	53	ie	0.0164122577543066			WP_223382051.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_025144665.1	54	coverage	0.275058275058275			WP_019245314.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_025144665.1	54	ie	0.0170591424372959			WP_019245314.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000512915.1	55	coverage	0.1351981351981352			WP_025278636.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000512915.1	55	ie	0.0370690312917751			WP_025278636.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_001314995.1	56	coverage	0.2657342657342657			WP_004295835.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_001314995.1	56	ie	0.0381118703511694			WP_004295835.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000238215.1	57	coverage	0.0512820512820512			WP_157755354.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000238215.1	57	ie	0.0385171315720483			WP_157755354.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_001547855.1	58	coverage	0.0512820512820512			WP_155642626.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_001547855.1	58	ie	0.0391834201848623			WP_155642626.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000025985.1	59	coverage	0.0442890442890442			WP_374938965.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000025985.1	59	ie	0.0469352364961924			WP_374938965.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_033042785.2	60	coverage	0.0442890442890442			WP_005779150.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_033042785.2	60	ie	0.0504481754590182			WP_005779150.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_002632415.2	61	coverage	0.261072261072261			WP_413544545.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_002632415.2	61	ie	0.066307163345302			WP_413544545.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_055381405.1	62	coverage	0.0442890442890442			WP_464716981.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_055381405.1	62	ie	0.0983199101458019			WP_464716981.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000243215.1	63	coverage	0.0442890442890442			WP_009137415.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000243215.1	63	ie	0.1608081230331064			WP_009137415.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000172175.1	64	coverage	0.0419580419580419			WP_007661425.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000172175.1	64	ie	0.1619786573457587			WP_007661425.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_001314995.1	65	coverage	0.0442890442890442			WP_004295835.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_001314995.1	65	ie	0.237243826474745			WP_004295835.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_002632415.2	66	coverage	0.0442890442890442			WP_413544545.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_002632415.2	66	ie	0.237243826474745			WP_413544545.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_018292125.1	67	coverage	0.0489510489510489			WP_195507791.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_018292125.1	67	ie	0.3786480435133293			WP_195507791.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_036416795.1	68	coverage	0.0442890442890442			WP_330941978.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_036416795.1	68	ie	0.4414320141817645			WP_330941978.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_025144665.1	69	coverage	0.0419580419580419			WP_019245314.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_025144665.1	69	ie	0.6056965569932143			WP_019245314.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_009193295.2	70	coverage	0.0419580419580419			WP_223225912.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_009193295.2	70	ie	0.6886420431447209			WP_223225912.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_013009555.1	71	coverage	0.0745920745920745			WP_007834676.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_013009555.1	71	ie	1.0945398164356233			WP_007834676.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_036416795.1	72	coverage	0.0489510489510489			WP_330941531.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_036416795.1	72	ie	2.181041061173643			WP_330941531.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000512915.1	73	coverage	0.0559440559440559			WP_025278636.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000512915.1	73	ie	2.77001203906592			WP_025278636.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000238215.1	74	coverage	0.1771561771561771			WP_231964054.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_000238215.1	74	ie	2.853570305746073			WP_231964054.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_001547855.1	75	coverage	0.1771561771561771			WP_231964054.1	t5_gh1_fragment_inventory.tsv
+C_fragments	GCF_001547855.1	75	ie	2.853570305746073			WP_231964054.1	t5_gh1_fragment_inventory.tsv
+meta	cov_cutoff		value	0.35				annotation pipeline §3 (HMM coverage > 0.35)
+meta	threshold_order	0	name				1e-15	task spec
+meta	threshold_order	1	name				1e-10	task spec
+meta	threshold_order	2	name				1e-05	task spec
+meta	threshold_order	3	name				0.001	task spec

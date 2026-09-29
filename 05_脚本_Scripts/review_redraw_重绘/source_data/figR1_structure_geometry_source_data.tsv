@@ -1,0 +1,20 @@
+block	entity	family	rank	tier	species	struct_source	pos_acid_base	pos_nucleophile	cdcd_A	minOO_A	caca_A	plddt_acid_base	plddt_nucleophile	ref_cdcd_A	ref_minOO_A	consistency_label	provenance
+cand	WP_010801083.1	GH3	1.0	tier1_top20	Parabacteroides goldsteinii	AlphaFold_DB_v6	165	486	7.26	6.29	9.12	98.8	98.7	7.39	6.26	consistent (clan GH-A retaining pair geometry)	t1a_catalytic_geometry_screen.tsv
+cand	WP_010801085.1	GH3	10.0	tier1_top20	Parabacteroides goldsteinii	AlphaFold_DB_v6	156	487	6.25	5.08	9.45	96.2	93.6	7.39	6.26	consistent (clan GH-A retaining pair geometry)	t1a_catalytic_geometry_screen.tsv
+cand	WP_010801212.1	GH3	17.0	tier1_top20	Parabacteroides goldsteinii	AlphaFold_DB_v6	214	553	6.48	5.09	8.89	97.1	92.7	7.39	6.26	consistent (clan GH-A retaining pair geometry)	t1a_catalytic_geometry_screen.tsv
+cand	WP_010800027.1	GH3	19.0	tier1_top20	Parabacteroides goldsteinii	AlphaFold_DB_v6	230	568	6.91	5.88	8.95	97.2	91.9	7.39	6.26	consistent (clan GH-A retaining pair geometry)	t1a_catalytic_geometry_screen.tsv
+cand	WP_005640269.1	GH3	24.0	pass	Parabacteroides merdae	AlphaFold_DB_v6	154	621	5.99	4.52	9.47	97.5	90.2	7.39	6.26	consistent (clan GH-A retaining pair geometry)	t1a_catalytic_geometry_screen.tsv
+cand	WP_007216976.1	GH3	29.0	pass	Bacteroides cellulosilyticus	AlphaFold_DB_v6	173	536	6.82	5.77	8.89	98.9	98.6	7.39	6.26	consistent (clan GH-A retaining pair geometry)	t1a_catalytic_geometry_screen.tsv
+cand	WP_167961716.1	GH3	30.0	pass	Bacteroides faecium	AlphaFold_DB_v6	161	476	6.93	6.03	9.56	98.2	92.2	7.39	6.26	consistent (clan GH-A retaining pair geometry)	t1a_catalytic_geometry_screen.tsv
+cand	WP_258914935.1	GH5	418.0	pass	Parabacteroides faecis	ESMFold_v1_catdomain	691	817	4.8	3.3	9.94	90.0	90.0	4.8	3.35	consistent (clan GH-A retaining pair geometry)	t1a_catalytic_geometry_screen.tsv
+cand	WP_224264005.1	GH5	419.0	pass	Parabacteroides goldsteinii	ESMFold_v1_catdomain	225	318	5.09	3.98	9.83	90.0	90.0	4.8	3.35	consistent (clan GH-A retaining pair geometry)	t1a_catalytic_geometry_screen.tsv
+cand	WP_374692919.1	GH5	420.0	pass	Parabacteroides goldsteinii	ESMFold_v1_catdomain	225	318	5.07	3.98	9.83	90.0	90.0	4.8	3.35	consistent (clan GH-A retaining pair geometry)	t1a_catalytic_geometry_screen.tsv
+cand	WP_010801084.1	GH5	421.0	pass	Parabacteroides goldsteinii	AlphaFold_DB_v6	225	318	5.12	4.46	10.11	98.1	98.2	4.8	3.35	consistent (clan GH-A retaining pair geometry)	t1a_catalytic_geometry_screen.tsv
+cand	WP_138272819.1	GH5	422.0	pass	Parabacteroides merdae	AlphaFold_DB_v6	200	304	5.46	4.24	10.35	97.3	98.1	4.8	3.35	consistent (clan GH-A retaining pair geometry)	t1a_catalytic_geometry_screen.tsv
+cand	WP_167960555.1	GH5	423.0	pass	Bacteroides faecium	AlphaFold_DB_v6	348	488	5.55	4.62	10.52	96.2	98.8	4.8	3.35	consistent (clan GH-A retaining pair geometry)	t1a_catalytic_geometry_screen.tsv
+cand	WP_176553131.1	GH5	424.0	pass	Bacteroides celer	ESMFold_v1_catdomain	176	314	5.16	3.85	10.24	80.0	90.0	4.8	3.35	consistent (clan GH-A retaining pair geometry)	t1a_catalytic_geometry_screen.tsv
+cand	WP_143259537.1	GH5	425.0	pass	Bacteroides luhongzhouii	ESMFold_v1_catdomain	221	314	5.0	3.92	9.91	90.0	90.0	4.8	3.35	consistent (clan GH-A retaining pair geometry)	t1a_catalytic_geometry_screen.tsv
+cand	WP_289291681.1	GH5	426.0	pass	Bacteroides mucinivorans	ESMFold_v1_catdomain	166	253	4.58	3.54	9.92	90.0	100.0	4.8	3.35	consistent (clan GH-A retaining pair geometry)	t1a_catalytic_geometry_screen.tsv
+cand	WP_044159271.1	GH5	427.0	pass	Bacteroides reticulotermitis JCM 10512	AlphaFold_DB_v6	223	334	4.88	3.37	9.71	98.7	98.9	4.8	3.35	consistent (clan GH-A retaining pair geometry)	t1a_catalytic_geometry_screen.tsv
+ref	BlBG3 (PDB 5Z9S, GH3)	GH3		experimental reference		PDB (experimental)	162	524	7.39	6.26	10.96			7.39	6.26	experimental reference	t1a_reference_calibration.tsv
+ref	BcelFp (PDB 6KDD, GH5_25)	GH5		experimental reference		PDB (experimental)	144	260	4.8	3.35	10.17			4.8	3.35	experimental reference	t1a_reference_calibration.tsv

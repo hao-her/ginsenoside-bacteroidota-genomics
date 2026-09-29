@@ -1,0 +1,604 @@
+# source_data for Fig 1 — phylum/genus GH family copy-number distribution | figure-round (presentation only)
+# rows=600 | all plotted values are read back from this file by the plot stage
+# provenance column gives the upstream read-only file + locator for every value
+block	entity	sub	field	value	num	den	text	provenance
+phylum_box	Actinomycetota	GH1	n	15				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH1	median	3.0				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH1	q1	3.0				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH1	q3	4.0				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH1	iqr	1.0				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH1	min	3				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH1	max	5				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH1	mean	3.533				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH1	zero_frac	0.0				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH2	n	15				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH2	median	6.0				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH2	q1	5.0				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH2	q3	7.5				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH2	iqr	2.5				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH2	min	4				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH2	max	9				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH2	mean	6.2				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH2	zero_frac	0.0				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH3	n	15				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH3	median	8.0				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH3	q1	8.0				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH3	q3	8.0				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH3	iqr	0.0				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH3	min	7				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH3	max	9				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH3	mean	8.0				phylum_family_distribution.tsv
+phylum_box	Actinomycetota	GH3	zero_frac	0.0				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH1	n	20				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH1	median	3.0				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH1	q1	3.0				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH1	q3	5.0				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH1	iqr	2.0				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH1	min	0				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH1	max	6				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH1	mean	3.2				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH1	zero_frac	0.1				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH2	n	20				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH2	median	6.0				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH2	q1	5.0				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH2	q3	8.25				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH2	iqr	3.25				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH2	min	0				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH2	max	13				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH2	mean	6.85				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH2	zero_frac	0.05				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH3	n	20				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH3	median	16.5				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH3	q1	14.5				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH3	q3	19.25				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH3	iqr	4.75				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH3	min	0				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH3	max	28				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH3	mean	16.4				phylum_family_distribution.tsv
+phylum_box	Ascomycota	GH3	zero_frac	0.05				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH1	n	68				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH1	median	1.0				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH1	q1	0.75				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH1	q3	3.0				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH1	iqr	2.25				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH1	min	0				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH1	max	11				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH1	mean	2.853				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH1	zero_frac	0.25				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH2	n	68				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH2	median	1.0				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH2	q1	0.0				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH2	q3	2.0				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH2	iqr	2.0				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH2	min	0				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH2	max	10				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH2	mean	1.382				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH2	zero_frac	0.4412				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH3	n	68				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH3	median	1.0				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH3	q1	0.0				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH3	q3	2.0				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH3	iqr	2.0				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH3	min	0				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH3	max	26				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH3	mean	2.176				phylum_family_distribution.tsv
+phylum_box	Bacillota	GH3	zero_frac	0.3382				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH1	n	31				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH1	median	0.0				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH1	q1	0.0				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH1	q3	0.0				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH1	iqr	0.0				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH1	min	0				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH1	max	0				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH1	mean	0.0				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH1	zero_frac	1.0				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH2	n	31				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH2	median	25.0				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH2	q1	18.0				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH2	q3	29.5				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH2	iqr	11.5				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH2	min	6				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH2	max	45				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH2	mean	23.935				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH2	zero_frac	0.0				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH3	n	31				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH3	median	10.0				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH3	q1	7.0				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH3	q3	19.5				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH3	iqr	12.5				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH3	min	3				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH3	max	29				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH3	mean	12.0				phylum_family_distribution.tsv
+phylum_box	Bacteroidota	GH3	zero_frac	0.0				phylum_family_distribution.tsv
+phylum_points	GCF_000002655.1	GH1	value	5			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000002655.1	GH2	value	6			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000002655.1	GH3	value	18			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000002715.2	GH1	value	3			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000002715.2	GH2	value	3			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000002715.2	GH3	value	12			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000002855.4	GH1	value	3			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000002855.4	GH2	value	6			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000002855.4	GH3	value	17			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000008445.1	GH1	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000008445.1	GH2	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000008445.1	GH3	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000009045.1	GH1	value	4			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000009045.1	GH2	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000009045.1	GH3	value	1			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000010425.1	GH1	value	2			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000010425.1	GH2	value	3			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000010425.1	GH3	value	6			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000011425.1	GH1	value	3			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000011425.1	GH2	value	9			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000011425.1	GH3	value	19			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000024345.1	GH1	value	5			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000024345.1	GH2	value	5			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000024345.1	GH3	value	9			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000025985.1	GH1	value	0			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000025985.1	GH2	value	15			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000025985.1	GH3	value	10			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000146045.2	GH1	value	0			Saccharomyces|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000146045.2	GH2	value	0			Saccharomyces|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000146045.2	GH3	value	0			Saccharomyces|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000146185.1	GH1	value	1			Lachnospira|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000146185.1	GH2	value	2			Lachnospira|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000146185.1	GH3	value	0			Lachnospira|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000149645.3	GH1	value	5			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000149645.3	GH2	value	6			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000149645.3	GH3	value	19			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000152245.2	GH1	value	0			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000152245.2	GH2	value	0			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000152245.2	GH3	value	2			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000172175.1	GH1	value	0			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000172175.1	GH2	value	36			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000172175.1	GH3	value	21			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000184455.2	GH1	value	3			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000184455.2	GH2	value	7			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000184455.2	GH3	value	23			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000196555.1	GH1	value	0			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000196555.1	GH2	value	1			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000196555.1	GH3	value	2			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000424105.1	GH1	value	2			Lachnospira|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000424105.1	GH2	value	2			Lachnospira|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000424105.1	GH3	value	1			Lachnospira|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000702205.1	GH1	value	2			Lachnospira|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000702205.1	GH2	value	2			Lachnospira|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000702205.1	GH3	value	1			Lachnospira|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000807675.2	GH1	value	0			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000807675.2	GH2	value	0			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_000807675.2	GH3	value	2			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001025135.1	GH1	value	1			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001025135.1	GH2	value	3			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001025135.1	GH3	value	1			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001025175.1	GH1	value	1			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001025175.1	GH2	value	2			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001025175.1	GH3	value	3			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001025215.1	GH1	value	0			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001025215.1	GH2	value	4			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001025215.1	GH3	value	5			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001042595.1	GH1	value	2			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001042595.1	GH2	value	6			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001042595.1	GH3	value	11			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001042635.1	GH1	value	1			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001042635.1	GH2	value	7			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001042635.1	GH3	value	9			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001078395.1	GH1	value	5			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001078395.1	GH2	value	7			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001078395.1	GH3	value	17			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001314995.1	GH1	value	0			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001314995.1	GH2	value	37			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001314995.1	GH3	value	20			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001890125.1	GH1	value	5			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001890125.1	GH2	value	13			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001890125.1	GH3	value	28			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001890725.1	GH1	value	3			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001890725.1	GH2	value	5			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_001890725.1	GH3	value	16			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_002257605.1	GH1	value	0			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_002257605.1	GH2	value	9			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_002257605.1	GH3	value	7			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_002441855.2	GH1	value	0			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_002441855.2	GH2	value	0			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_002441855.2	GH3	value	2			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_002632415.2	GH1	value	0			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_002632415.2	GH2	value	28			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_002632415.2	GH3	value	23			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_002715865.1	GH1	value	0			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_002715865.1	GH2	value	3			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_002715865.1	GH3	value	4			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_002761235.1	GH1	value	1			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_002761235.1	GH2	value	2			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_002761235.1	GH3	value	2			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_002970915.1	GH1	value	8			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_002970915.1	GH2	value	1			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_002970915.1	GH3	value	0			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_002970935.1	GH1	value	9			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_002970935.1	GH2	value	1			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_002970935.1	GH3	value	1			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_003184925.1	GH1	value	3			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_003184925.1	GH2	value	6			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_003184925.1	GH3	value	15			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_003641185.1	GH1	value	7			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_003641185.1	GH2	value	2			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_003641185.1	GH3	value	1			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_004022145.1	GH1	value	0			Paecilomyces|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_004022145.1	GH2	value	3			Paecilomyces|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_004022145.1	GH3	value	7			Paecilomyces|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_004217145.1	GH1	value	3			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_004217145.1	GH2	value	4			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_004217145.1	GH3	value	8			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_004345665.1	GH1	value	3			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_004345665.1	GH2	value	7			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_004345665.1	GH3	value	8			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_004365175.1	GH1	value	4			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_004365175.1	GH2	value	6			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_004365175.1	GH3	value	9			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_004365875.1	GH1	value	3			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_004365875.1	GH2	value	4			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_004365875.1	GH3	value	8			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_004366075.1	GH1	value	3			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_004366075.1	GH2	value	8			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_004366075.1	GH3	value	8			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_004730965.1	GH1	value	9			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_004730965.1	GH2	value	1			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_004730965.1	GH3	value	0			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_005233875.1	GH1	value	3			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_005233875.1	GH2	value	4			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_005233875.1	GH3	value	7			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_006094295.1	GH1	value	1			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_006094295.1	GH2	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_006094295.1	GH3	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_009017415.1	GH1	value	3			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_009017415.1	GH2	value	8			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_009017415.1	GH3	value	25			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_009193295.2	GH1	value	0			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_009193295.2	GH2	value	29			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_009193295.2	GH3	value	21			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_009739945.1	GH1	value	1			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_009739945.1	GH2	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_009739945.1	GH3	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_009913655.1	GH1	value	10			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_009913655.1	GH2	value	1			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_009913655.1	GH3	value	0			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_012113595.1	GH1	value	0			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_012113595.1	GH2	value	26			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_012113595.1	GH3	value	22			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_013340325.1	GH1	value	2			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_013340325.1	GH2	value	6			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_013340325.1	GH3	value	15			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_014131755.1	GH1	value	0			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_014131755.1	GH2	value	31			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_014131755.1	GH3	value	10			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_014217565.1	GH1	value	4			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_014217565.1	GH2	value	7			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_014217565.1	GH3	value	7			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_014898155.1	GH1	value	2			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_014898155.1	GH2	value	6			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_014898155.1	GH3	value	19			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_014898175.1	GH1	value	3			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_014898175.1	GH2	value	5			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_014898175.1	GH3	value	26			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_014898195.1	GH1	value	1			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_014898195.1	GH2	value	0			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_014898195.1	GH3	value	4			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_016290755.1	GH1	value	2			Lachnospira|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_016290755.1	GH2	value	2			Lachnospira|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_016290755.1	GH3	value	1			Lachnospira|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_016605985.1	GH1	value	2			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_016605985.1	GH2	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_016605985.1	GH3	value	1			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_016861625.1	GH1	value	3			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_016861625.1	GH2	value	6			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_016861625.1	GH3	value	16			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_016861735.1	GH1	value	1			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_016861735.1	GH2	value	5			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_016861735.1	GH3	value	15			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_016861865.1	GH1	value	6			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_016861865.1	GH2	value	13			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_016861865.1	GH3	value	22			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_017873595.1	GH1	value	0			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_017873595.1	GH2	value	24			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_017873595.1	GH3	value	9			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_018279895.1	GH1	value	0			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_018279895.1	GH2	value	10			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_018279895.1	GH3	value	7			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_018292125.1	GH1	value	0			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_018292125.1	GH2	value	45			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_018292125.1	GH3	value	29			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_018292205.1	GH1	value	0			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_018292205.1	GH2	value	18			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_018292205.1	GH3	value	6			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_018340605.1	GH1	value	5			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_018340605.1	GH2	value	5			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_018340605.1	GH3	value	20			Aspergillus|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_018739485.1	GH1	value	1			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_018739485.1	GH2	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_018739485.1	GH3	value	1			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_019930665.1	GH1	value	0			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_019930665.1	GH2	value	18			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_019930665.1	GH3	value	17			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_020091425.1	GH1	value	0			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_020091425.1	GH2	value	22			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_020091425.1	GH3	value	8			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_020091445.1	GH1	value	0			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_020091445.1	GH2	value	10			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_020091445.1	GH3	value	7			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_020091505.1	GH1	value	0			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_020091505.1	GH2	value	26			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_020091505.1	GH3	value	10			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_020861345.1	GH1	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_020861345.1	GH2	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_020861345.1	GH3	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_022174665.1	GH1	value	2			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_022174665.1	GH2	value	1			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_022174665.1	GH3	value	2			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_022453685.1	GH1	value	1			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_022453685.1	GH2	value	3			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_022453685.1	GH3	value	3			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_022605165.1	GH1	value	3			Purpureocillium|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_022605165.1	GH2	value	11			Purpureocillium|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_022605165.1	GH3	value	13			Purpureocillium|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_023168085.1	GH1	value	3			Purpureocillium|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_023168085.1	GH2	value	12			Purpureocillium|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_023168085.1	GH3	value	11			Purpureocillium|Ascomycota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_023744375.2	GH1	value	0			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_023744375.2	GH2	value	6			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_023744375.2	GH3	value	3			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_024296885.1	GH1	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_024296885.1	GH2	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_024296885.1	GH3	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_024759285.1	GH1	value	0			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_024759285.1	GH2	value	33			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_024759285.1	GH3	value	7			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_025150745.1	GH1	value	1			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_025150745.1	GH2	value	2			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_025150745.1	GH3	value	2			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_025151045.1	GH1	value	0			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_025151045.1	GH2	value	24			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_025151045.1	GH3	value	3			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_029025825.1	GH1	value	10			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_029025825.1	GH2	value	1			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_029025825.1	GH3	value	0			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_029369685.1	GH1	value	0			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_029369685.1	GH2	value	13			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_029369685.1	GH3	value	8			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_030292135.1	GH1	value	2			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_030292135.1	GH2	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_030292135.1	GH3	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_031172035.1	GH1	value	0			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_031172035.1	GH2	value	30			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_031172035.1	GH3	value	14			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_031357045.1	GH1	value	1			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_031357045.1	GH2	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_031357045.1	GH3	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_033042785.2	GH1	value	0			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_033042785.2	GH2	value	19			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_033042785.2	GH3	value	8			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_033947465.1	GH1	value	0			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_033947465.1	GH2	value	0			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_033947465.1	GH3	value	2			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_033947505.1	GH1	value	0			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_033947505.1	GH2	value	0			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_033947505.1	GH3	value	2			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_034478925.1	GH1	value	6			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_034478925.1	GH2	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_034478925.1	GH3	value	2			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_034654355.2	GH1	value	0			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_034654355.2	GH2	value	33			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_034654355.2	GH3	value	22			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_036097425.1	GH1	value	3			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_036097425.1	GH2	value	5			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_036097425.1	GH3	value	8			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_036416795.1	GH1	value	0			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_036416795.1	GH2	value	27			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_036416795.1	GH3	value	19			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_037290055.1	GH1	value	8			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_037290055.1	GH2	value	1			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_037290055.1	GH3	value	0			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_038096195.1	GH1	value	2			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_038096195.1	GH2	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_038096195.1	GH3	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_038592875.1	GH1	value	9			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_038592875.1	GH2	value	1			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_038592875.1	GH3	value	0			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_039529595.1	GH1	value	4			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_039529595.1	GH2	value	6			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_039529595.1	GH3	value	8			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_039537185.1	GH1	value	4			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_039537185.1	GH2	value	8			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_039537185.1	GH3	value	9			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_041080795.1	GH1	value	1			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_041080795.1	GH2	value	0			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_041080795.1	GH3	value	3			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_041080835.1	GH1	value	3			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_041080835.1	GH2	value	1			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_041080835.1	GH3	value	5			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_042136375.2	GH1	value	1			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_042136375.2	GH2	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_042136375.2	GH3	value	1			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_043289835.1	GH1	value	0			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_043289835.1	GH2	value	0			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_043289835.1	GH3	value	2			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_045002895.1	GH1	value	0			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_045002895.1	GH2	value	3			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_045002895.1	GH3	value	2			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_045207705.1	GH1	value	3			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_045207705.1	GH2	value	5			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_045207705.1	GH3	value	7			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_045862825.1	GH1	value	11			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_045862825.1	GH2	value	0			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_045862825.1	GH3	value	1			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_046244355.1	GH1	value	0			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_046244355.1	GH2	value	0			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_046244355.1	GH3	value	0			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_048319815.1	GH1	value	0			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_048319815.1	GH2	value	38			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_048319815.1	GH3	value	22			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_049860805.1	GH1	value	0			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_049860805.1	GH2	value	27			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_049860805.1	GH3	value	5			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_050942355.1	GH1	value	3			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_050942355.1	GH2	value	9			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_050942355.1	GH3	value	8			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_051098045.1	GH1	value	10			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_051098045.1	GH2	value	1			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_051098045.1	GH3	value	0			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_052947655.1	GH1	value	2			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_052947655.1	GH2	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_052947655.1	GH3	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_054506995.1	GH1	value	0			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_054506995.1	GH2	value	16			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_054506995.1	GH3	value	3			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_054781295.1	GH1	value	5			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_054781295.1	GH2	value	8			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_054781295.1	GH3	value	8			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_054784135.1	GH1	value	3			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_054784135.1	GH2	value	7			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_054784135.1	GH3	value	8			Kribbella|Actinomycetota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_055233895.1	GH1	value	11			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_055233895.1	GH2	value	2			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_055233895.1	GH3	value	1			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_055397865.1	GH1	value	1			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_055397865.1	GH2	value	3			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_055397865.1	GH3	value	3			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_055398035.1	GH1	value	0			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_055398035.1	GH2	value	25			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_055398035.1	GH3	value	14			Bacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_056776715.1	GH1	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_056776715.1	GH2	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_056776715.1	GH3	value	1			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_056856795.1	GH1	value	2			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_056856795.1	GH2	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_056856795.1	GH3	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_057198225.1	GH1	value	1			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_057198225.1	GH2	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_057198225.1	GH3	value	0			Bacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_057815115.1	GH1	value	10			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_057815115.1	GH2	value	1			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_057815115.1	GH3	value	0			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_059427965.1	GH1	value	0			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_059427965.1	GH2	value	2			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_059427965.1	GH3	value	0			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_059724925.1	GH1	value	1			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_059724925.1	GH2	value	10			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_059724925.1	GH3	value	3			Bifidobacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_060803915.1	GH1	value	1			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_060803915.1	GH2	value	1			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_060803915.1	GH3	value	1			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_900103815.1	GH1	value	3			Lachnospira|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_900103815.1	GH2	value	2			Lachnospira|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_900103815.1	GH3	value	1			Lachnospira|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_900108125.1	GH1	value	2			Lachnospira|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_900108125.1	GH2	value	2			Lachnospira|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_900108125.1	GH3	value	1			Lachnospira|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_900445495.1	GH1	value	0			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_900445495.1	GH2	value	18			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_900445495.1	GH3	value	3			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_900683775.1	GH1	value	0			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_900683775.1	GH2	value	0			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_900683775.1	GH3	value	2			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_947539765.1	GH1	value	9			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_947539765.1	GH2	value	0			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_947539765.1	GH3	value	0			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_963243495.1	GH1	value	7			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_963243495.1	GH2	value	1			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_963243495.1	GH3	value	1			Lactiplantibacillus|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_988228595.1	GH1	value	0			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_988228595.1	GH2	value	21			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_988228595.1	GH3	value	3			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_988233935.1	GH1	value	3			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_988233935.1	GH2	value	0			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_988233935.1	GH3	value	1			Eubacterium|Bacillota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_988238815.1	GH1	value	0			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_988238815.1	GH2	value	28			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+phylum_points	GCF_988238815.1	GH3	value	11			Parabacteroides|Bacteroidota	official_strain_cazyme_matrix_round4.tsv
+genus_median	Kribbella	GH1	median	3.0			Actinomycetota	t3a_genus_medians.tsv
+genus_median	Kribbella	GH2	median	6.0			Actinomycetota	t3a_genus_medians.tsv
+genus_median	Kribbella	GH3	median	8.0			Actinomycetota	t3a_genus_medians.tsv
+genus_median	Aspergillus	GH1	median	3.0			Ascomycota	t3a_genus_medians.tsv
+genus_median	Aspergillus	GH2	median	6.0			Ascomycota	t3a_genus_medians.tsv
+genus_median	Aspergillus	GH3	median	17.5			Ascomycota	t3a_genus_medians.tsv
+genus_median	Paecilomyces	GH1	median	0.0			Ascomycota	t3a_genus_medians.tsv
+genus_median	Paecilomyces	GH2	median	3.0			Ascomycota	t3a_genus_medians.tsv
+genus_median	Paecilomyces	GH3	median	7.0			Ascomycota	t3a_genus_medians.tsv
+genus_median	Purpureocillium	GH1	median	3.0			Ascomycota	t3a_genus_medians.tsv
+genus_median	Purpureocillium	GH2	median	11.5			Ascomycota	t3a_genus_medians.tsv
+genus_median	Purpureocillium	GH3	median	12.0			Ascomycota	t3a_genus_medians.tsv
+genus_median	Saccharomyces	GH1	median	0.0			Ascomycota	t3a_genus_medians.tsv
+genus_median	Saccharomyces	GH2	median	0.0			Ascomycota	t3a_genus_medians.tsv
+genus_median	Saccharomyces	GH3	median	0.0			Ascomycota	t3a_genus_medians.tsv
+genus_median	Bacillus	GH1	median	1.0			Bacillota	t3a_genus_medians.tsv
+genus_median	Bacillus	GH2	median	0.0			Bacillota	t3a_genus_medians.tsv
+genus_median	Bacillus	GH3	median	0.0			Bacillota	t3a_genus_medians.tsv
+genus_median	Bifidobacterium	GH1	median	1.0			Bacillota	t3a_genus_medians.tsv
+genus_median	Bifidobacterium	GH2	median	3.0			Bacillota	t3a_genus_medians.tsv
+genus_median	Bifidobacterium	GH3	median	4.0			Bacillota	t3a_genus_medians.tsv
+genus_median	Eubacterium	GH1	median	0.0			Bacillota	t3a_genus_medians.tsv
+genus_median	Eubacterium	GH2	median	0.0			Bacillota	t3a_genus_medians.tsv
+genus_median	Eubacterium	GH3	median	2.0			Bacillota	t3a_genus_medians.tsv
+genus_median	Lachnospira	GH1	median	2.0			Bacillota	t3a_genus_medians.tsv
+genus_median	Lachnospira	GH2	median	2.0			Bacillota	t3a_genus_medians.tsv
+genus_median	Lachnospira	GH3	median	1.0			Bacillota	t3a_genus_medians.tsv
+genus_median	Lactiplantibacillus	GH1	median	9.0			Bacillota	t3a_genus_medians.tsv
+genus_median	Lactiplantibacillus	GH2	median	1.0			Bacillota	t3a_genus_medians.tsv
+genus_median	Lactiplantibacillus	GH3	median	0.0			Bacillota	t3a_genus_medians.tsv
+genus_median	Bacteroides	GH1	median	0.0			Bacteroidota	t3a_genus_medians.tsv
+genus_median	Bacteroides	GH2	median	28.0			Bacteroidota	t3a_genus_medians.tsv
+genus_median	Bacteroides	GH3	median	19.0			Bacteroidota	t3a_genus_medians.tsv
+genus_median	Parabacteroides	GH1	median	0.0			Bacteroidota	t3a_genus_medians.tsv
+genus_median	Parabacteroides	GH2	median	19.5			Bacteroidota	t3a_genus_medians.tsv
+genus_median	Parabacteroides	GH3	median	7.0			Bacteroidota	t3a_genus_medians.tsv
+genus_n	Aspergillus	GH1	n	16				genus_family_distribution.tsv
+genus_n	Aspergillus	GH2	n	16				genus_family_distribution.tsv
+genus_n	Aspergillus	GH3	n	16				genus_family_distribution.tsv
+genus_n	Bacillus	GH1	n	17				genus_family_distribution.tsv
+genus_n	Bacillus	GH2	n	17				genus_family_distribution.tsv
+genus_n	Bacillus	GH3	n	17				genus_family_distribution.tsv
+genus_n	Bacteroides	GH1	n	17				genus_family_distribution.tsv
+genus_n	Bacteroides	GH2	n	17				genus_family_distribution.tsv
+genus_n	Bacteroides	GH3	n	17				genus_family_distribution.tsv
+genus_n	Bifidobacterium	GH1	n	16				genus_family_distribution.tsv
+genus_n	Bifidobacterium	GH2	n	16				genus_family_distribution.tsv
+genus_n	Bifidobacterium	GH3	n	16				genus_family_distribution.tsv
+genus_n	Eubacterium	GH1	n	15				genus_family_distribution.tsv
+genus_n	Eubacterium	GH2	n	15				genus_family_distribution.tsv
+genus_n	Eubacterium	GH3	n	15				genus_family_distribution.tsv
+genus_n	Kribbella	GH1	n	15				genus_family_distribution.tsv
+genus_n	Kribbella	GH2	n	15				genus_family_distribution.tsv
+genus_n	Kribbella	GH3	n	15				genus_family_distribution.tsv
+genus_n	Lachnospira	GH1	n	6				genus_family_distribution.tsv
+genus_n	Lachnospira	GH2	n	6				genus_family_distribution.tsv
+genus_n	Lachnospira	GH3	n	6				genus_family_distribution.tsv
+genus_n	Lactiplantibacillus	GH1	n	14				genus_family_distribution.tsv
+genus_n	Lactiplantibacillus	GH2	n	14				genus_family_distribution.tsv
+genus_n	Lactiplantibacillus	GH3	n	14				genus_family_distribution.tsv
+genus_n	Paecilomyces	GH1	n	1				genus_family_distribution.tsv
+genus_n	Paecilomyces	GH2	n	1				genus_family_distribution.tsv
+genus_n	Paecilomyces	GH3	n	1				genus_family_distribution.tsv
+genus_n	Parabacteroides	GH1	n	14				genus_family_distribution.tsv
+genus_n	Parabacteroides	GH2	n	14				genus_family_distribution.tsv
+genus_n	Parabacteroides	GH3	n	14				genus_family_distribution.tsv
+genus_n	Purpureocillium	GH1	n	2				genus_family_distribution.tsv
+genus_n	Purpureocillium	GH2	n	2				genus_family_distribution.tsv
+genus_n	Purpureocillium	GH3	n	2				genus_family_distribution.tsv
+genus_n	Saccharomyces	GH1	n	1				genus_family_distribution.tsv
+genus_n	Saccharomyces	GH2	n	1				genus_family_distribution.tsv
+genus_n	Saccharomyces	GH3	n	1				genus_family_distribution.tsv
+stats	genus_median_phylum_KW	GH1	p	0.3470564871702991			H=3.3042; k=4; N=12	outputs_round8/tables/t3a_genus_kw.tsv
+stats	genus_median_phylum_KW	GH2	p	0.0745507544819813			H=6.9182; k=4; N=12	outputs_round8/tables/t3a_genus_kw.tsv
+stats	genus_median_phylum_KW	GH3	p	0.1451598705689262			H=5.3933; k=4; N=12	outputs_round8/tables/t3a_genus_kw.tsv
+stats	strain_phylum_KW	GH1	epsilon_squared	0.4387416531864983			H=60.03641491424478; p=5.773867258366387e-13	kruskal_epsilon2.tsv
+stats	strain_phylum_KW	GH2	epsilon_squared	0.7562262947533138			H=101.3094183179308; p=8.126983480238244e-22	kruskal_epsilon2.tsv
+stats	strain_phylum_KW	GH3	epsilon_squared	0.5977971657484081			H=80.71363154729306; p=2.1575217713928097e-17	kruskal_epsilon2.tsv
+stats	phylo_signal	GH1_presence	D	0.0200968621702545			p_bm=0.4145854145854146; p_rand=0.0009990009990009	outputs_round8/tables/t3b_D_statistic.tsv
+stats	phylo_signal	GH2	lambda_ML	0.9304837571419377			CI=0.8250000000000001-0.97; K=0.0408314480008956; K_perm_p=0.001	t3b_continuous_signal.tsv
+stats	phylo_signal	GH3	lambda_ML	0.9929224203624644			CI=0.98-0.995; K=0.0506123801153192; K_perm_p=0.001	t3b_continuous_signal.tsv
+meta	phylum_order	0	name				Bacteroidota	shared_style.PHYLUM_ORDER
+meta	phylum_order	1	name				Bacillota	shared_style.PHYLUM_ORDER
+meta	phylum_order	2	name				Actinomycetota	shared_style.PHYLUM_ORDER
+meta	phylum_order	3	name				Ascomycota	shared_style.PHYLUM_ORDER
+meta	family_order	0	name				GH1	task spec (GH1/GH2/GH3)
+meta	family_order	1	name				GH2	task spec (GH1/GH2/GH3)
+meta	family_order	2	name				GH3	task spec (GH1/GH2/GH3)
+meta	y_axis		scale	1.0			symlog	design decision: linthresh=1 keeps true zeros visible, not dropped
+meta	jitter_seed		value	20260920				reproducibility

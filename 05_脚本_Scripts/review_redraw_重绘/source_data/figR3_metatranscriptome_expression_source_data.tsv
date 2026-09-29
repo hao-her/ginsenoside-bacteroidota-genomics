@@ -1,0 +1,474 @@
+protein_id	family	rank	tier	species	pul_window	s4b_flag	best_pident	best_qcov	n_hits	n_ge90_len50	n_ge95_len50	metatx_expression_call	provenance
+WP_010801083.1	GH3	1	tier1_top20	Parabacteroides goldsteinii	in	none	77.6	11.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_258971837.1	GH3	2	tier1_top20	Parabacteroides goldsteinii	in	none	78.8	11.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_224264006.1	GH3	3	tier1_top20	Parabacteroides goldsteinii	in	none	78.8	11.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_224264072.1	GH3	4	tier1_top20	Parabacteroides goldsteinii	in	none	77.1	11.3	50	1	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_258915342.1	GH3	5	tier1_top20	Parabacteroides faecis	in	none	81.9	11.3	50	1	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_195400649.1	GH3	6	tier1_top20	Parabacteroides distasonis	in	none	100.0	11.3	50	19	19	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_258971922.1	GH3	7	tier1_top20	Parabacteroides goldsteinii	in	none	77.1	11.3	50	1	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_005860207.1	GH3	8	tier1_top20	Parabacteroides sp. CT06	in	none	100.0	11.3	50	19	19	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_258971836.1	GH3	9	tier1_top20	Parabacteroides goldsteinii	in	none	85.7	10.3	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_010801085.1	GH3	10	tier1_top20	Parabacteroides goldsteinii	in	none	85.7	10.3	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_224264004.1	GH3	11	tier1_top20	Parabacteroides goldsteinii	in	none	85.7	10.3	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_258916494.1	GH3	12	tier1_top20	Parabacteroides faecis	in	none	78.5	10.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_258970789.1	GH3	13	tier1_top20	Parabacteroides goldsteinii	in	none	72.0	9.7	33	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_224264923.1	GH3	14	tier1_top20	Parabacteroides goldsteinii	in	none	75.9	10.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_224263918.1	GH3	15	tier1_top20	Parabacteroides goldsteinii	in	none	69.4	10.6	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_258971731.1	GH3	16	tier1_top20	Parabacteroides goldsteinii	in	none	69.4	10.6	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_010801212.1	GH3	17	tier1_top20	Parabacteroides goldsteinii	in	none	69.4	10.6	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_258914931.1	GH3	18	tier1_top20	Parabacteroides faecis	in	none	73.3	9.7	29	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_010800027.1	GH3	19	tier1_top20	Parabacteroides goldsteinii	in	none	68.6	8.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_224264686.1	GH3	20	tier1_top20	Parabacteroides goldsteinii	in	none	67.1	8.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_258969387.1	GH3	21	pass	Parabacteroides goldsteinii	in	none	68.6	8.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_122128858.1	GH3	22	pass	Parabacteroides distasonis	in	none	73.8	4.9	31	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_293731986.1	GH3	23	pass	Parabacteroides vesiculifaciens	in	none	97.2	8.2	50	5	5	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_005640269.1	GH3	24	pass	Parabacteroides merdae	in	none	100.0	8.2	50	5	5	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_008150196.1	GH3	25	pass	Parabacteroides johnsonii	in	none	98.6	8.2	50	5	4	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_195474816.1	GH3	26	pass	Bacteroides difficilis	in	genus_AB	97.7	11.2	50	32	19	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_143257102.1	GH3	27	pass	Bacteroides luhongzhouii	in	genus_AB	100.0	11.2	50	29	21	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_005811975.1	GH3	28	pass	Bacteroides hominis	in	genus_AB	91.8	11.1	50	11	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_007216976.1	GH3	29	pass	Bacteroides cellulosilyticus	in	genus_AB	97.5	10.3	50	21	8	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_167961716.1	GH3	30	pass	Bacteroides faecium	in	genus_AB	62.7	10.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_418214121.1	GH3	31	pass	Bacteroides difficilis	in	genus_AB	71.8	11.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_008025347.1	GH3	32	pass	Bacteroides celer	in	genus_AB	100.0	6.2	50	4	4	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_004296677.1	GH3	33	pass	Bacteroides ovatus	in	genus_AB	100.0	6.2	50	4	4	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_007666301.1	GH3	34	pass	Bacteroides intestinalis	in	genus_AB	93.9	10.9	50	20	3	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_143259710.1	GH3	35	pass	Bacteroides luhongzhouii	in	genus_AB	76.5	11.3	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_195508033.1	GH3	36	pass	Bacteroides cellulosilyticus	in	genus_AB	92.7	10.9	50	13	2	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_330940148.1	GH3	37	pass	Bacteroides maternus	in	genus_AB	93.9	10.9	50	15	2	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_167961334.1	GH3	38	pass	Bacteroides faecium	in	genus_AB	83.6	9.8	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_418213756.1	GH3	39	pass	Bacteroides difficilis	in	genus_AB	61.9	11.2	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_060408022.1	GH3	40	pass	Bacteroides cellulosilyticus	in	genus_AB	68.4	10.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_007663925.1	GH3	41	pass	Bacteroides intestinalis	in	genus_AB	68.4	10.3	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_195507122.1	GH3	42	pass	Bacteroides cellulosilyticus	in	genus_AB	98.6	10.0	50	6	4	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_143257669.1	GH3	43	pass	Bacteroides luhongzhouii	in	genus_AB	76.4	9.6	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_167960160.1	GH3	44	pass	Bacteroides faecium	in	genus_AB	91.7	11.4	50	2	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_167963943.1	GH3	45	pass	Bacteroides faecium	in	genus_AB	67.9	11.3	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_167960128.1	GH3	46	pass	Bacteroides faecium	in	genus_AB	94.0	11.4	50	2	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_099146206.1	GH3	47	pass	Bacteroides celer	in	genus_AB	98.8	11.4	50	2	2	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_099146559.1	GH3	48	pass	Bacteroides celer	in	genus_AB	72.6	11.2	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_322932817.1	GH3	49	pass	Bacteroides mucinivorans	in	genus_AB	61.6	9.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_167960558.1	GH3	50	pass	Bacteroides faecium	in	genus_AB	61.0	10.0	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_322933228.1	GH3	51	pass	Bacteroides mucinivorans	in	genus_AB	60.0	9.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_143257672.1	GH3	52	pass	Bacteroides luhongzhouii	in	genus_AB	80.0	11.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_370511920.1	GH3	53	pass	Bacteroides luhongzhouii	in	genus_AB	89.6	10.4	50	1	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_099146205.1	GH3	54	pass	Bacteroides celer	in	genus_AB	91.0	9.6	50	8	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_322933591.1	GH3	55	pass	Bacteroides mucinivorans	in	genus_AB	89.6	10.4	50	1	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_149919596.1	GH3	56	pass	Bacteroides cellulosilyticus	in	genus_AB	94.2	11.7	50	24	12	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_250710154.1	GH3	57	pass	Bacteroides hominis	in	genus_AB	62.0	8.9	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_195507376.1	GH3	58	pass	Bacteroides cellulosilyticus	in	genus_AB	94.9	9.3	50	2	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_176553105.1	GH3	59	pass	Bacteroides celer	in	genus_AB	100.0	11.5	50	8	4	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_004298111.1	GH3	60	pass	Bacteroides ovatus	in	genus_AB	100.0	11.5	50	8	4	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_185911582.1	GH3	61	pass	Bacteroides luhongzhouii	in	genus_AB	98.8	11.5	50	8	4	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_007217060.1	GH3	62	pass	Bacteroides cellulosilyticus	in	genus_AB	98.1	5.6	48	2	2	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_167960126.1	GH3	63	pass	Bacteroides faecium	in	genus_AB	89.7	9.5	50	2	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_167963947.1	GH3	64	pass	Bacteroides faecium	in	genus_AB	60.3	8.2	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_291550265.1	GH3	65	pass	Bacteroides maternus	in	genus_AB	96.2	9.2	50	2	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_418214077.1	GH3	66	pass	Bacteroides difficilis	in	genus_AB	98.8	11.5	50	7	4	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_167963036.1	GH3	67	pass	Bacteroides faecium	in	genus_AB	89.4	9.0	50	22	16	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_011108762.1	GH3	68	pass	Bacteroides thetaiotaomicron	in	genus_AB	96.5	11.3	50	8	5	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_418213580.1	GH3	69	pass	Bacteroides difficilis	in	genus_AB	71.1	5.3	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_323673999.1	GH3	70	pass	Bacteroides mucinivorans	in	genus_AB	84.7	9.2	50	3	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_060408143.1	GH3	71	pass	Bacteroides cellulosilyticus	in	genus_AB	88.9	9.2	50	1	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_167960560.1	GH3	72	pass	Bacteroides faecium	in	genus_AB	92.9	10.6	50	31	9	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_418213577.1	GH3	73	pass	Bacteroides difficilis	in	genus_AB	87.3	9.3	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_418213579.1	GH3	74	pass	Bacteroides difficilis	in	genus_AB	96.2	5.6	37	2	2	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_143257676.1	GH3	75	pass	Bacteroides luhongzhouii	in	genus_AB	76.7	8.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_322932430.1	GH3	76	pass	Bacteroides mucinivorans	in	genus_AB	76.0	6.6	19	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_418213987.1	GH3	77	pass	Bacteroides difficilis	in	genus_AB	82.4	9.0	50	1	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_025867405.1	GH3	78	pass	Bacteroides nordii	in	genus_AB	85.9	9.0	50	14	3	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_394369060.1	GH3	79	pass	Bacteroides nordii	in	genus_AB	60.5	10.0	43	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_011108750.1	GH3	80	pass	Bacteroides thetaiotaomicron	in	genus_AB	65.4	9.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_055295663.1	GH3	81	pass	Bacteroides salyersiae	in	genus_AB	60.5	10.0	30	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_322932801.1	GH3	82	pass	Bacteroides mucinivorans	in	genus_AB	84.8	9.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_007219691.1	GH3	83	pass	Bacteroides cellulosilyticus	in	genus_AB	77.2	9.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_025867810.1	GH3	84	pass	Bacteroides nordii	in	genus_AB	83.5	9.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_322932797.1	GH3	85	pass	Bacteroides mucinivorans	in	genus_AB	83.5	9.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_183207973.1	GH3	86	pass	Bacteroides reticulotermitis JCM 10512	in	genus_AB	82.4	10.9	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_007661582.1	GH3	87	pass	Bacteroides intestinalis	in	genus_AB	89.4	10.9	50	3	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_007661007.1	GH3	88	pass	Bacteroides intestinalis	in	genus_AB	86.8	8.8	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_007215419.1	GH3	89	pass	Bacteroides cellulosilyticus	in	genus_AB	66.7	7.6	17	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_010992000.1	GH3	90	pass	Bacteroides fragilis NCTC 9343	in	species_A	92.9	11.1	50	12	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_010992224.1	GH3	91	pass	Bacteroides fragilis NCTC 9343	in	species_A	63.3	8.9	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_005860284.1	GH3	92	pass	Parabacteroides sp. CT06	out	none	98.7	10.1	50	3	3	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_122144865.1	GH3	93	pass	Parabacteroides distasonis	out	none	100.0	10.1	50	3	3	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_224201880.1	GH3	94	pass	Parabacteroides distasonis	out	none	100.0	10.1	50	3	3	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_211738701.1	GH3	95	pass	Parabacteroides distasonis	out	none	98.7	10.1	50	3	3	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_022193076.1	GH3	96	pass	Parabacteroides sp. CT06	out	none	100.0	10.4	50	6	6	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_224202565.1	GH3	97	pass	Parabacteroides distasonis	out	none	100.0	10.4	50	6	6	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_211737481.1	GH3	98	pass	Parabacteroides distasonis	out	none	100.0	10.4	50	6	6	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_005853858.1	GH3	99	pass	Parabacteroides sp. CT06	out	none	100.0	11.0	50	21	21	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_122144904.1	GH3	100	pass	Parabacteroides distasonis	out	none	100.0	10.4	50	6	6	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_211738401.1	GH3	101	pass	Parabacteroides distasonis	out	none	100.0	11.0	50	21	21	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_122144964.1	GH3	102	pass	Parabacteroides distasonis	out	none	98.8	11.0	50	21	21	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_195400853.1	GH3	103	pass	Parabacteroides distasonis	out	none	100.0	11.0	50	20	20	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_211738703.1	GH3	104	pass	Parabacteroides distasonis	out	none	76.2	11.1	50	2	2	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_122144864.1	GH3	105	pass	Parabacteroides distasonis	out	none	76.2	11.1	50	2	2	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_005860283.1	GH3	106	pass	Parabacteroides sp. CT06	out	none	76.2	11.1	50	2	2	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_217773555.1	GH3	107	pass	Parabacteroides distasonis	out	none	76.2	11.1	50	2	2	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_459188285.1	GH3	108	pass	Parabacteroides sp. APC149_11_2_Y6	out	none	72.6	11.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_005863568.1	GH3	109	pass	Parabacteroides distasonis	out	none	100.0	11.3	50	19	19	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_249222532.1	GH3	110	pass	Parabacteroides distasonis	out	none	100.0	12.3	50	14	14	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_258970939.1	GH3	111	pass	Parabacteroides goldsteinii	out	none	67.9	11.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_251967272.1	GH3	112	pass	Parabacteroides absconsus	out	none	65.8	10.0	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_425883111.1	GH3	113	pass	Parabacteroides vesiculifaciens	out	none	63.3	7.9	18	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_258969582.1	GH3	114	pass	Parabacteroides goldsteinii	out	none	75.9	10.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_010803535.1	GH3	115	pass	Parabacteroides goldsteinii	out	none	75.9	10.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_010802044.1	GH3	116	pass	Parabacteroides goldsteinii	out	none	61.3	9.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_258914427.1	GH3	117	pass	Parabacteroides faecis	out	none	60.8	9.5	47	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_258915112.1	GH3	118	pass	Parabacteroides faecis	out	none	70.6	10.6	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_258972117.1	GH3	119	pass	Parabacteroides goldsteinii	out	none	60.0	9.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_425886422.1	GH3	120	pass	Parabacteroides vesiculifaciens	out	none	72.9	10.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_022322641.1	GH3	121	pass	Parabacteroides merdae	out	none	84.5	8.8	50	10	9	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_459190473.1	GH3	122	pass	Parabacteroides sp. APC149_11_2_Y6	out	none	87.3	9.2	50	1	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_005634138.1	GH3	123	pass	Parabacteroides merdae	out	none	84.5	8.8	50	10	9	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_425884621.1	GH3	124	pass	Parabacteroides vesiculifaciens	out	none	87.1	8.9	50	8	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_008145996.1	GH3	125	pass	Parabacteroides johnsonii	out	none	84.7	8.9	50	10	2	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_251968331.1	GH3	126	pass	Parabacteroides absconsus	out	none	87.3	9.1	50	2	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_005856722.1	GH3	127	pass	Parabacteroides sp. CT06	out	none	100.0	9.1	50	8	8	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_258970983.1	GH3	128	pass	Parabacteroides goldsteinii	out	none	67.1	9.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_224202336.1	GH3	129	pass	Parabacteroides distasonis	out	none	98.7	9.1	50	8	8	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_211737805.1	GH3	130	pass	Parabacteroides distasonis	out	none	100.0	9.1	50	8	8	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_008780553.1	GH3	131	pass	Parabacteroides distasonis	out	none	100.0	9.1	50	7	7	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_258914453.1	GH3	132	pass	Parabacteroides faecis	out	none	68.6	9.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_010802055.1	GH3	133	pass	Parabacteroides goldsteinii	out	none	67.1	9.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_195584300.1	GH3	134	pass	Parabacteroides goldsteinii	out	none	67.1	9.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_317472881.1	GH3	135	pass	Bacteroides hominis	out	genus_AB	91.8	11.1	50	15	2	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_195507527.1	GH3	136	pass	Bacteroides cellulosilyticus	out	genus_AB	88.2	11.1	50	13	4	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_330941874.1	GH3	137	pass	Bacteroides maternus	out	genus_AB	95.1	10.6	50	18	8	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_044154827.1	GH3	138	pass	Bacteroides intestinalis	out	genus_AB	88.2	11.1	50	17	4	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_299091672.1	GH3	139	pass	Bacteroides maternus	out	genus_AB	95.1	10.5	50	16	11	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_007216962.1	GH3	140	pass	Bacteroides cellulosilyticus	out	genus_AB	95.1	10.5	50	16	11	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_007660647.1	GH3	141	pass	Bacteroides intestinalis	out	genus_AB	95.1	10.5	50	15	7	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_167961489.1	GH3	142	pass	Bacteroides faecium	out	genus_AB	97.7	11.2	50	27	18	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_004324488.1	GH3	143	pass	Bacteroides ovatus	out	genus_AB	100.0	11.2	50	31	22	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_005682249.1	GH3	144	pass	Bacteroides caccae CL03T12C61	out	genus_AB	91.8	11.1	50	31	21	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_099146322.1	GH3	145	pass	Bacteroides celer	out	genus_AB	97.7	11.2	50	27	21	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_309008992.1	GH3	146	pass	Bacteroides salyersiae	out	genus_AB	92.9	10.7	50	14	4	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_413544549.1	GH3	147	pass	Bacteroides celer	out	genus_AB	78.8	11.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_007660643.1	GH3	148	pass	Bacteroides intestinalis	out	genus_AB	97.5	10.5	50	18	5	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_330941416.1	GH3	149	pass	Bacteroides maternus	out	genus_AB	97.5	10.3	50	18	5	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_022302186.1	GH3	150	pass	Bacteroides faecis	out	genus_AB	90.6	11.0	50	25	11	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_011108888.1	GH3	151	pass	Bacteroides thetaiotaomicron	out	genus_AB	91.8	11.0	50	24	11	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_143258880.1	GH3	152	pass	Bacteroides luhongzhouii	out	genus_AB	78.8	11.2	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_004323730.1	GH3	153	pass	Bacteroides ovatus	out	genus_AB	100.0	10.6	50	1	1	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_010539079.1	GH3	154	pass	Bacteroides faecis	out	genus_AB	86.4	10.7	50	1	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_413544547.1	GH3	155	pass	Bacteroides celer	out	genus_AB	95.1	10.8	50	1	1	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_413544522.1	GH3	156	pass	Bacteroides celer	out	genus_AB	95.1	10.7	50	1	1	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_011108030.1	GH3	157	pass	Bacteroides thetaiotaomicron	out	genus_AB	84.0	10.7	50	2	2	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_143259824.1	GH3	158	pass	Bacteroides luhongzhouii	out	genus_AB	93.8	10.7	50	1	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_004309526.1	GH3	159	pass	Bacteroides celer	out	genus_AB	86.4	10.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_418214143.1	GH3	160	pass	Bacteroides difficilis	out	genus_AB	82.4	11.2	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_317472399.1	GH3	161	pass	Bacteroides hominis	out	genus_AB	73.5	11.2	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_025866664.1	GH3	162	pass	Bacteroides nordii	out	genus_AB	65.1	10.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_322932279.1	GH3	163	pass	Bacteroides mucinivorans	out	genus_AB	65.1	10.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_167960058.1	GH3	164	pass	Bacteroides faecium	out	genus_AB	81.5	11.1	50	4	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_418214339.1	GH3	165	pass	Bacteroides difficilis	out	genus_AB	82.7	11.1	50	4	4	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_004298569.1	GH3	166	pass	Bacteroides ovatus	out	genus_AB	73.5	11.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_167960874.1	GH3	167	pass	Bacteroides faecium	out	genus_AB	71.8	11.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_055293924.1	GH3	168	pass	Bacteroides salyersiae	out	genus_AB	62.7	10.8	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_370511894.1	GH3	169	pass	Bacteroides luhongzhouii	out	genus_AB	82.2	9.8	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_025867775.1	GH3	170	pass	Bacteroides nordii	out	genus_AB	82.4	11.3	50	10	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_322932890.1	GH3	171	pass	Bacteroides mucinivorans	out	genus_AB	83.5	11.3	50	5	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_418214629.1	GH3	172	pass	Bacteroides difficilis	out	genus_AB	82.2	9.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_245208478.1	GH3	173	pass	Bacteroides faecium	out	genus_AB	86.3	10.0	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_007219193.1	GH3	174	pass	Bacteroides cellulosilyticus	out	genus_AB	81.4	9.3	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_004298584.1	GH3	175	pass	Bacteroides ovatus	out	genus_AB	63.5	11.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_060408047.1	GH3	176	pass	Bacteroides cellulosilyticus	out	genus_AB	69.4	9.3	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_418214296.1	GH3	177	pass	Bacteroides difficilis	out	genus_AB	91.7	11.4	50	2	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_183208470.1	GH3	178	pass	Bacteroides reticulotermitis JCM 10512	out	genus_AB	91.7	11.4	50	2	1	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_004296513.1	GH3	179	pass	Bacteroides ovatus	out	genus_AB	100.0	11.4	50	2	2	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_025867990.1	GH3	180	pass	Bacteroides nordii	out	genus_AB	60.5	9.9	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_099145726.1	GH3	181	pass	Bacteroides celer	out	genus_AB	62.8	9.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_418214476.1	GH3	182	pass	Bacteroides difficilis	out	genus_AB	70.2	11.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_322932992.1	GH3	183	pass	Bacteroides mucinivorans	out	genus_AB	60.5	9.9	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_418214361.1	GH3	184	pass	Bacteroides difficilis	out	genus_AB	61.5	9.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_418214205.1	GH3	185	pass	Bacteroides difficilis	out	genus_AB	63.0	9.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_245208317.1	GH3	186	pass	Bacteroides faecium	out	genus_AB	61.5	9.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_176553093.1	GH3	187	pass	Bacteroides celer	out	genus_AB	70.5	10.0	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_330941325.1	GH3	188	pass	Bacteroides maternus	out	genus_AB	63.0	9.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_055269968.1	GH3	189	pass	Bacteroides faecis	out	genus_AB	80.6	7.9	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_449374902.1	GH3	190	pass	Bacteroides reticulotermitis JCM 10512	out	genus_AB	63.3	10.6	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_044163842.1	GH3	191	pass	Bacteroides reticulotermitis JCM 10512	out	genus_AB	96.4	11.3	50	26	17	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_060407552.1	GH3	192	pass	Bacteroides cellulosilyticus	out	genus_AB	100.0	6.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_055293214.1	GH3	193	pass	Bacteroides salyersiae	out	genus_AB	89.6	10.4	50	1	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_007661399.1	GH3	194	pass	Bacteroides intestinalis	out	genus_AB	90.9	10.4	50	4	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_418213918.1	GH3	195	pass	Bacteroides difficilis	out	genus_AB	62.0	10.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_007216560.1	GH3	196	pass	Bacteroides cellulosilyticus	out	genus_AB	60.6	8.6	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_007660315.1	GH3	197	pass	Bacteroides intestinalis	out	genus_AB	60.8	9.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_002561806.1	GH3	198	pass	Bacteroides nordii	out	genus_AB	81.0	11.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_162303180.1	GH3	199	pass	Bacteroides thetaiotaomicron	out	genus_AB	100.0	7.7	50	2	2	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_044163442.1	GH3	200	pass	Bacteroides reticulotermitis JCM 10512	out	genus_AB	62.3	9.8	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_322932990.1	GH3	201	pass	Bacteroides mucinivorans	out	genus_AB	81.0	11.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_167961863.1	GH3	202	pass	Bacteroides faecium	out	genus_AB	69.2	10.0	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_317472971.1	GH3	203	pass	Bacteroides hominis	out	genus_AB	60.8	9.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_004299607.1	GH3	204	pass	Bacteroides ovatus	out	genus_AB	60.4	7.2	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_183208370.1	GH3	205	pass	Bacteroides reticulotermitis JCM 10512	out	genus_AB	93.5	10.3	50	3	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_025866550.1	GH3	206	pass	Bacteroides nordii	out	genus_AB	89.6	10.4	50	1	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_330941539.1	GH3	207	pass	Bacteroides maternus	out	genus_AB	92.2	10.4	50	2	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_099146334.1	GH3	208	pass	Bacteroides celer	out	genus_AB	60.4	7.2	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_004296512.1	GH3	209	pass	Bacteroides ovatus	out	genus_AB	91.0	9.5	50	8	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_330941885.1	GH3	210	pass	Bacteroides maternus	out	genus_AB	68.3	11.2	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_394354193.1	GH3	211	pass	Bacteroides reticulotermitis JCM 10512	out	genus_AB	71.3	10.6	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_183207598.1	GH3	212	pass	Bacteroides reticulotermitis JCM 10512	out	genus_AB	90.7	9.8	20	6	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_176553156.1	GH3	213	pass	Bacteroides celer	out	genus_AB	95.0	7.7	50	1	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_007660498.1	GH3	214	pass	Bacteroides intestinalis	out	genus_AB	97.5	9.1	50	2	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_007219457.1	GH3	215	pass	Bacteroides cellulosilyticus	out	genus_AB	67.1	11.2	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_004323981.1	GH3	216	pass	Bacteroides celer	out	genus_AB	88.4	11.6	50	22	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_143256920.1	GH3	217	pass	Bacteroides luhongzhouii	out	genus_AB	62.5	9.8	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_052588052.1	GH3	218	pass	Bacteroides ovatus	out	genus_AB	100.0	7.7	50	1	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_195652016.1	GH3	219	pass	Bacteroides cellulosilyticus	out	genus_AB	92.2	10.4	50	4	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_118402268.1	GH3	220	pass	Bacteroides cellulosilyticus	out	genus_AB	65.3	9.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_005680251.1	GH3	221	pass	Bacteroides caccae CL03T12C61	out	genus_AB	100.0	9.8	15	6	6	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_004322983.1	GH3	222	pass	Bacteroides ovatus	out	genus_AB	88.4	11.6	50	22	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_167961093.1	GH3	223	pass	Bacteroides faecium	out	genus_AB	95.3	11.5	50	7	4	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_143258914.1	GH3	224	pass	Bacteroides luhongzhouii	out	genus_AB	86.0	11.6	50	2	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_418214670.1	GH3	225	pass	Bacteroides difficilis	out	genus_AB	89.4	9.0	50	17	8	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_005680233.1	GH3	226	pass	Bacteroides caccae CL03T12C61	out	genus_AB	100.0	8.5	50	24	23	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_032540817.1	GH3	227	pass	Bacteroides hominis	out	genus_AB	66.2	10.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_418214302.1	GH3	228	pass	Bacteroides difficilis	out	genus_AB	88.5	9.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_055295361.1	GH3	229	pass	Bacteroides salyersiae	out	genus_AB	62.8	9.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_060407835.1	GH3	230	pass	Bacteroides cellulosilyticus	out	genus_AB	86.7	9.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_143259957.1	GH3	231	pass	Bacteroides luhongzhouii	out	genus_AB	94.8	10.3	50	7	2	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_005676716.1	GH3	232	pass	Bacteroides caccae CL03T12C61	out	genus_AB	100.0	10.8	50	36	35	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_291550269.1	GH3	233	pass	Bacteroides maternus	out	genus_AB	98.1	5.6	50	2	2	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_044154684.1	GH3	234	pass	Bacteroides intestinalis	out	genus_AB	98.1	5.6	50	2	2	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_055270115.1	GH3	235	pass	Bacteroides faecis	out	genus_AB	87.1	9.0	50	21	11	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_143259986.1	GH3	236	pass	Bacteroides luhongzhouii	out	genus_AB	93.5	10.3	50	3	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_143258881.1	GH3	237	pass	Bacteroides luhongzhouii	out	genus_AB	89.4	10.6	50	30	13	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_223381820.1	GH3	238	pass	Bacteroides nordii	out	genus_AB	76.5	10.6	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_322933664.1	GH3	239	pass	Bacteroides mucinivorans	out	genus_AB	76.5	10.6	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_055269289.1	GH3	240	pass	Bacteroides faecis	out	genus_AB	63.0	7.1	11	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_055295214.1	GH3	241	pass	Bacteroides salyersiae	out	genus_AB	87.1	9.0	50	10	4	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_074635766.1	GH3	242	pass	Bacteroides celer	out	genus_AB	88.2	10.6	50	27	14	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_007667425.1	GH3	243	pass	Bacteroides intestinalis	out	genus_AB	88.9	9.2	50	1	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_418214204.1	GH3	244	pass	Bacteroides difficilis	out	genus_AB	92.9	10.6	50	28	13	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_167966701.1	GH3	245	pass	Bacteroides faecium	out	genus_AB	100.0	5.6	36	2	2	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_330941995.1	GH3	246	pass	Bacteroides maternus	out	genus_AB	90.3	9.2	50	2	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_167966699.1	GH3	247	pass	Bacteroides faecium	out	genus_AB	89.9	9.3	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_176553101.1	GH3	248	pass	Bacteroides celer	out	genus_AB	100.0	5.6	43	2	2	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_008767763.1	GH3	249	pass	Bacteroides thetaiotaomicron	out	genus_AB	100.0	5.6	48	2	2	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_099146047.1	GH3	250	pass	Bacteroides celer	out	genus_AB	89.9	9.3	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_322932419.1	GH3	251	pass	Bacteroides mucinivorans	out	genus_AB	79.7	9.3	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_418214481.1	GH3	252	pass	Bacteroides difficilis	out	genus_AB	61.6	6.3	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_055295345.1	GH3	253	pass	Bacteroides salyersiae	out	genus_AB	66.7	5.8	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_223381731.1	GH3	254	pass	Bacteroides nordii	out	genus_AB	62.8	10.0	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_021935644.1	GH3	255	pass	Bacteroides salyersiae	out	genus_AB	64.4	7.8	21	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_004298554.1	GH3	256	pass	Bacteroides ovatus	out	genus_AB	88.2	10.6	50	29	11	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_011107972.1	GH3	257	pass	Bacteroides thetaiotaomicron	out	genus_AB	91.1	9.3	50	1	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_224206283.1	GH3	258	pass	Bacteroides salyersiae	out	genus_AB	67.2	6.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_007660331.1	GH3	259	pass	Bacteroides intestinalis	out	genus_AB	65.4	9.0	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_007665572.1	GH3	260	pass	Bacteroides intestinalis	out	genus_AB	75.9	9.2	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_330940193.1	GH3	261	pass	Bacteroides maternus	out	genus_AB	90.6	9.0	50	16	10	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_025866490.1	GH3	262	pass	Bacteroides nordii	out	genus_AB	79.7	9.3	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_195507775.1	GH3	263	pass	Bacteroides cellulosilyticus	out	genus_AB	90.6	9.0	50	17	9	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_022301314.1	GH3	264	pass	Bacteroides faecis	out	genus_AB	67.1	9.3	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_025867064.1	GH3	265	pass	Bacteroides nordii	out	genus_AB	74.0	6.6	18	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_007219159.1	GH3	266	pass	Bacteroides cellulosilyticus	out	genus_AB	83.5	9.2	50	1	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_007479264.1	GH3	267	pass	Bacteroides salyersiae	out	genus_AB	60.7	9.9	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_007479263.1	GH3	268	pass	Bacteroides salyersiae	out	genus_AB	79.5	9.6	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_004300597.1	GH3	269	pass	Bacteroides ovatus	out	genus_AB	75.3	11.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_007666171.1	GH3	270	pass	Bacteroides intestinalis	out	genus_AB	90.6	9.0	50	17	10	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_322933972.1	GH3	271	pass	Bacteroides mucinivorans	out	genus_AB	85.9	9.0	50	14	4	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_322933336.1	GH3	272	pass	Bacteroides mucinivorans	out	genus_AB	61.6	10.0	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_183209095.1	GH3	273	pass	Bacteroides reticulotermitis JCM 10512	out	genus_AB	83.5	9.2	50	1	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_143256931.1	GH3	274	pass	Bacteroides luhongzhouii	out	genus_AB	100.0	9.1	50	8	7	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_099146341.1	GH3	275	pass	Bacteroides celer	out	genus_AB	100.0	9.1	50	9	9	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_167961547.1	GH3	276	pass	Bacteroides faecium	out	genus_AB	100.0	9.1	50	8	6	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_143258859.1	GH3	277	pass	Bacteroides luhongzhouii	out	genus_AB	67.6	8.2	44	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_011108512.1	GH3	278	pass	Bacteroides thetaiotaomicron	out	genus_AB	76.3	7.8	20	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_330941804.1	GH3	279	pass	Bacteroides maternus	out	genus_AB	83.5	9.2	50	1	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_322933541.1	GH3	280	pass	Bacteroides mucinivorans	out	genus_AB	65.8	9.3	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_044154763.1	GH3	281	pass	Bacteroides intestinalis	out	genus_AB	82.3	9.2	50	1	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_118401482.1	GH3	282	pass	Bacteroides cellulosilyticus	out	genus_AB	69.0	9.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_025866966.1	GH3	283	pass	Bacteroides nordii	out	genus_AB	79.5	9.6	50	1	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_055269508.1	GH3	284	pass	Bacteroides faecis	out	genus_AB	65.4	9.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_322933269.1	GH3	285	pass	Bacteroides mucinivorans	out	genus_AB	78.0	6.9	42	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_081741232.1	GH3	286	pass	Bacteroides reticulotermitis JCM 10512	out	genus_AB	88.0	9.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_099145991.1	GH3	287	pass	Bacteroides celer	out	genus_AB	83.5	9.2	50	3	2	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_143257995.1	GH3	288	pass	Bacteroides luhongzhouii	out	genus_AB	83.5	9.2	50	3	2	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_004299652.1	GH3	289	pass	Bacteroides ovatus	out	genus_AB	98.7	9.1	50	9	9	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_004297743.1	GH3	290	pass	Bacteroides ovatus	out	genus_AB	100.0	7.0	50	1	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_025866965.1	GH3	291	pass	Bacteroides nordii	out	genus_AB	65.8	9.2	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_143258905.1	GH3	292	pass	Bacteroides luhongzhouii	out	genus_AB	87.1	10.8	50	3	2	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_322933545.1	GH3	293	pass	Bacteroides mucinivorans	out	genus_AB	79.5	9.6	50	1	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_418214282.1	GH3	294	pass	Bacteroides difficilis	out	genus_AB	79.5	9.6	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_167962529.1	GH3	295	pass	Bacteroides faecium	out	genus_AB	82.3	9.2	50	2	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_143258869.1	GH3	296	pass	Bacteroides luhongzhouii	out	genus_AB	100.0	10.3	50	5	4	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_007660684.1	GH3	297	pass	Bacteroides intestinalis	out	genus_AB	94.9	9.0	50	19	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_299092486.1	GH3	298	pass	Bacteroides maternus	out	genus_AB	74.7	9.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_004301531.1	GH3	299	pass	Bacteroides ovatus	out	genus_AB	83.5	9.2	50	3	2	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_099146861.1	GH3	300	pass	Bacteroides celer	out	genus_AB	85.9	10.8	50	2	1	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_055271468.1	GH3	301	pass	Bacteroides faecis	out	genus_AB	79.5	9.6	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_011108580.1	GH3	302	pass	Bacteroides thetaiotaomicron	out	genus_AB	80.7	9.6	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_004298561.1	GH3	303	pass	Bacteroides ovatus	out	genus_AB	98.7	10.3	50	5	5	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_099146358.1	GH3	304	pass	Bacteroides celer	out	genus_AB	100.0	10.3	50	4	4	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_330942144.1	GH3	305	pass	Bacteroides maternus	out	genus_AB	82.3	9.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_025866487.1	GH3	306	pass	Bacteroides nordii	out	genus_AB	79.7	9.2	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_004298458.1	GH3	307	pass	Bacteroides ovatus	out	genus_AB	87.1	10.8	50	3	3	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_007665368.1	GH3	308	pass	Bacteroides intestinalis	out	genus_AB	81.4	6.9	34	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_044159527.1	GH3	309	pass	Bacteroides reticulotermitis JCM 10512	out	genus_AB	81.2	9.9	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_007215323.1	GH3	310	pass	Bacteroides cellulosilyticus	out	genus_AB	82.3	9.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_195507069.1	GH3	311	pass	Bacteroides cellulosilyticus	out	genus_AB	97.5	9.2	50	16	9	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_122281990.1	GH3	312	pass	Bacteroides salyersiae	out	genus_AB	84.8	9.3	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_118402000.1	GH3	313	pass	Bacteroides cellulosilyticus	out	genus_AB	89.4	10.9	50	10	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_425286627.1	GH3	314	pass	Bacteroides maternus	out	genus_AB	97.5	9.2	50	16	9	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_330941475.1	GH3	315	pass	Bacteroides maternus	out	genus_AB	89.4	10.9	50	6	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_021968425.1	GH3	316	pass	Bacteroides intestinalis	out	genus_AB	74.7	9.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_004297730.1	GH3	317	pass	Bacteroides ovatus	out	genus_AB	60.3	6.9	38	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_055293269.1	GH3	318	pass	Bacteroides salyersiae	out	genus_AB	88.5	11.2	50	9	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_195507097.1	GH3	319	pass	Bacteroides cellulosilyticus	out	genus_AB	86.8	8.8	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_299094389.1	GH3	320	pass	Bacteroides maternus	out	genus_AB	86.8	8.8	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_044159948.1	GH3	321	pass	Bacteroides reticulotermitis JCM 10512	out	genus_AB	83.5	9.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_322932323.1	GH3	322	pass	Bacteroides mucinivorans	out	genus_AB	70.6	11.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_010993738.1	GH3	323	pass	Bacteroides fragilis NCTC 9343	out	species_A	91.8	11.1	50	16	4	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_172579068.1	GH3	324	pass	Bacteroides fragilis NCTC 9343	out	species_A	60.8	9.8	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_010992182.1	GH3	325	pass	Bacteroides fragilis NCTC 9343	out	species_A	64.9	10.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_010993179.1	GH3	326	pass	Bacteroides fragilis NCTC 9343	out	species_A	65.5	9.8	41	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_010991964.1	GH3	327	pass	Bacteroides fragilis NCTC 9343	out	species_A	69.2	9.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_010993184.1	GH3	328	pass	Bacteroides fragilis NCTC 9343	out	species_A	67.6	8.2	38	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_085961429.1	GH3	329	pass	Phocaeicola dorei DSM 17855		none	91.8	11.0	50	14	2	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_081094267.1	GH3	330	pass	Tannerella forsythia KS16 KS16		none	78.8	11.2	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_080561803.1	GH3	331	pass	Tannerella forsythia 92A2 92A2		none	78.8	11.2	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_013618079.1	GH3	332	pass	Phocaeicola salanitronis DSM 18170		none	91.6	10.7	50	11	2	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_013617445.1	GH3	333	pass	Phocaeicola salanitronis DSM 18170		none	73.2	10.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_013613005.1	GH3	334	pass	Odoribacter splanchnicus		none	100.0	9.5	50	2	2	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_022160424.1	GH3	335	pass	Odoribacter splanchnicus JF-1-6		none	100.0	9.5	50	2	2	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_025279181.1	GH3	336	pass	Barnesiella viscericola DSM 18177		none	68.2	11.3	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_250794371.1	GH3	337	pass	Barnesiella sp. B2-R-119 B2-R-119		none	72.9	11.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_034541984.1	GH3	338	pass	Phocaeicola paurosaccharolyticus JCM 15092 JCM 15092		none	73.8	10.9	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_306435914.1	GH3	339	pass	Odoribacter splanchnicus JF-1-6		none	73.8	10.4	50	1	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_015546730.1	GH3	340	pass	Alistipes shahii WAL 8301 WAL 8301		none	98.8	10.8	50	3	3	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_232208877.1	GH3	341	pass	Alistipes indistinctus YIT 12060		none	85.5	10.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_329905080.1	GH3	342	pass	Porphyromonas pogonae PP01-1		none	75.0	11.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_083810191.1	GH3	343	pass	Alistipes shahii WAL 8301 WAL 8301		none	98.8	10.8	50	23	23	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_025278770.1	GH3	344	pass	Barnesiella viscericola DSM 18177		none	84.7	11.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_250792152.1	GH3	345	pass	Barnesiella sp. B2-R-119 B2-R-119		none	65.9	11.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_136409483.1	GH3	346	pass	Muribaculum gordoncarteri TLL-A4		none	67.5	10.8	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_195342577.1	GH3	347	pass	Barnesiella intestinihominis AF117-104-WCA;Barnesiella intestinihominis AF117-105-WCA		none	65.9	11.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_025278050.1	GH3	348	pass	Barnesiella viscericola DSM 18177		none	62.2	13.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_195492189.1	GH3	349	pass	Barnesiella intestinihominis AF117-104-WCA;Barnesiella intestinihominis AF117-105-WCA		none	64.3	11.0	50	1	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_250792418.1	GH3	350	pass	Barnesiella sp. B2-R-119 B2-R-119		none	64.3	11.0	50	1	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_394364987.1	GH3	351	pass	Muribaculum intestinale YL27		none	73.8	11.8	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_015546890.1	GH3	352	pass	Alistipes shahii WAL 8301 WAL 8301		none	73.8	11.5	50	3	3	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_491854018.1	GH3	353	pass	Muribaculum caecicola WR-YR7		none	76.7	9.6	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_009134077.1	GH3	354	pass	Alistipes indistinctus YIT 12060		none	78.8	11.6	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_068961162.1	GH3	355	pass	Muribaculum intestinale YL27		none	85.9	9.5	50	3	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_060830813.1	GH3	356	pass	Tannerella forsythia KS16 KS16		none	72.2	10.2	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_014224138.1	GH3	357	pass	Tannerella forsythia 92A2 92A2		none	72.2	10.2	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_025279513.1	GH3	358	pass	Barnesiella viscericola DSM 18177		none	85.7	10.4	50	2	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_117508417.1	GH3	359	pass	Alistipes onderdonkii subsp. vulgaris 3BBH6		none	97.4	10.3	50	8	3	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_025279371.1	GH3	360	pass	Barnesiella viscericola DSM 18177		none	82.1	11.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_024993896.1	GH3	361	pass	Phocaeicola paurosaccharolyticus JCM 15092 JCM 15092		none	69.5	10.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_068961073.1	GH3	362	pass	Muribaculum intestinale YL27		none	69.6	10.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_008143191.1	GH3	363	pass	Phocaeicola coprophilus FDAARGOS_1220		none	72.9	10.8	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_259872926.1	GH3	364	pass	Alistipes shahii WAL 8301 WAL 8301		none	100.0	10.3	50	16	12	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_250793031.1	GH3	365	pass	Barnesiella sp. B2-R-119 B2-R-119		none	89.6	10.4	50	2	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_025278780.1	GH3	366	pass	Barnesiella viscericola DSM 18177		none	76.2	11.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_009136824.1	GH3	367	pass	Odoribacter laneus YIT 12061 YIT 12061		none	85.9	11.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_008861773.1	GH3	368	pass	Barnesiella intestinihominis AF117-104-WCA;Barnesiella intestinihominis AF117-105-WCA		none	89.6	10.4	50	2	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_250793567.1	GH3	369	pass	Barnesiella sp. B2-R-119 B2-R-119		none	62.8	10.9	45	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_464643900.1	GH3	370	pass	Phocaeicola paurosaccharolyticus JCM 15092 JCM 15092		none	90.9	10.6	50	5	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_136409511.1	GH3	371	pass	Muribaculum gordoncarteri TLL-A4		none	89.3	11.4	50	4	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_008860678.1	GH3	372	pass	Barnesiella intestinihominis AF117-104-WCA;Barnesiella intestinihominis AF117-105-WCA		none	76.2	11.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_232321420.1	GH3	373	pass	Muribaculum intestinale YL27		none	76.0	5.2	13	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_013616924.1	GH3	374	pass	Phocaeicola salanitronis DSM 18170		none	83.7	11.6	50	15	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_204083355.1	GH3	375	pass	Phocaeicola coprophilus FDAARGOS_1220		none	69.8	6.0	40	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_407934810.1	GH3	376	pass	Barnesiella sp. B2-R-119 B2-R-119		none	76.2	11.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_013617897.1	GH3	377	pass	Phocaeicola salanitronis DSM 18170		none	90.7	11.6	50	22	1	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_155819152.1	GH3	378	pass	Phocaeicola coprophilus FDAARGOS_1220		none	70.7	9.7	22	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_464643781.1	GH3	379	pass	Phocaeicola paurosaccharolyticus JCM 15092 JCM 15092		none	90.7	11.7	50	29	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_015546573.1	GH3	380	pass	Alistipes shahii WAL 8301 WAL 8301		none	100.0	11.6	50	8	8	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_084135260.1	GH3	381	pass	Rikenella microfusus DSM 15922 DSM 15922		none	84.1	8.6	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_068961873.1	GH3	382	pass	Muribaculum intestinale YL27		none	73.5	9.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_068960380.1	GH3	383	pass	Muribaculum intestinale YL27		none	73.1	10.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_013616936.1	GH3	384	pass	Phocaeicola salanitronis DSM 18170		none	84.7	10.9	50	1	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_013617902.1	GH3	385	pass	Phocaeicola salanitronis DSM 18170		none	84.7	10.9	50	1	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_136409632.1	GH3	386	pass	Muribaculum gordoncarteri TLL-A4		none	74.7	9.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_008862627.1	GH3	387	pass	Barnesiella intestinihominis AF117-104-WCA;Barnesiella intestinihominis AF117-105-WCA		none	62.8	8.6	47	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_084135194.1	GH3	388	pass	Rikenella microfusus DSM 15922 DSM 15922		none	71.4	11.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_068959896.1	GH3	389	pass	Muribaculum intestinale YL27		none	82.5	10.3	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_041583994.1	GH3	390	pass	Phocaeicola salanitronis DSM 18170		none	92.0	10.5	50	24	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_008140933.1	GH3	391	pass	Phocaeicola coprophilus FDAARGOS_1220		none	84.7	10.9	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_008863224.1	GH3	392	pass	Barnesiella intestinihominis AF117-104-WCA;Barnesiella intestinihominis AF117-105-WCA		none	61.6	10.0	44	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_238337277.1	GH3	393	pass	Muribaculum gordoncarteri TLL-A4		none	79.3	8.9	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_117506890.1	GH3	394	pass	Alistipes onderdonkii subsp. vulgaris 3BBH6		none	74.1	11.0	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_250793819.1	GH3	395	pass	Barnesiella sp. B2-R-119 B2-R-119		none	61.6	10.0	44	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_013618804.1	GH3	396	pass	Phocaeicola salanitronis DSM 18170		none	79.2	8.9	50	1	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_024993817.1	GH3	397	pass	Phocaeicola paurosaccharolyticus JCM 15092 JCM 15092		none	78.6	10.8	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_464643364.1	GH3	398	pass	Phocaeicola paurosaccharolyticus JCM 15092 JCM 15092		none	77.0	9.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_007834234.1	GH3	399	pass	Phocaeicola dorei DSM 17855		none	100.0	9.5	50	31	25	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_464643586.1	GH3	400	pass	Phocaeicola paurosaccharolyticus JCM 15092 JCM 15092		none	84.8	9.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_136410894.1	GH3	401	pass	Muribaculum gordoncarteri TLL-A4		none	93.3	7.7	21	1	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_015546731.1	GH3	402	pass	Alistipes shahii WAL 8301 WAL 8301		none	100.0	9.7	50	1	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_024995097.1	GH3	403	pass	Phocaeicola paurosaccharolyticus JCM 15092 JCM 15092		none	81.3	8.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_007831896.1	GH3	404	pass	Phocaeicola dorei DSM 17855		none	82.4	11.0	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_464715791.1	GH3	405	pass	Prevotella mikamonis GTC17253		genus_C	75.0	10.8	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_464722075.1	GH3	406	pass	Prevotella histicola JCM 15637		genus_C	72.3	11.0	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_464715784.1	GH3	407	pass	Prevotella mikamonis GTC17253		genus_C	69.2	10.0	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_029216512.1	GH3	408	pass	Prevotella denticola JCM 13449		genus_C	73.6	10.8	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_464716165.1	GH3	409	pass	Prevotella mikamonis GTC17253		genus_C	80.0	11.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_237794650.1	GH3	410	pass	Prevotella communis E1-9		genus_C	69.9	11.2	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_464716071.1	GH3	411	pass	Prevotella mikamonis GTC17253		genus_C	61.5	4.2	31	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_025079113.1	GH3	412	pass	Prevotella fusca JCM 17724		genus_C	97.4	10.1	50	13	13	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_237794671.1	GH3	413	pass	Prevotella communis E1-9		genus_C	72.0	9.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_237793079.1	GH3	414	pass	Prevotella communis E1-9		genus_C	84.5	9.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_464716063.1	GH3	415	pass	Prevotella mikamonis GTC17253		genus_C	77.2	10.9	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_464715820.1	GH3	416	pass	Prevotella mikamonis GTC17253		genus_C	79.5	10.7	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_237793674.1	GH3	417	pass	Prevotella communis E1-9		genus_C	72.4	10.0	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_258914935.1	GH5	418	pass	Parabacteroides faecis	in	none	0.0	0.0	0	0	0	no transcript hit (>=60% id)	t1c_metatx_expression.tsv
+WP_224264005.1	GH5	419	pass	Parabacteroides goldsteinii	in	none	81.6	18.1	40	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_374692919.1	GH5	420	pass	Parabacteroides goldsteinii	in	none	80.3	18.1	41	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_010801084.1	GH5	421	pass	Parabacteroides goldsteinii	in	none	80.3	18.1	40	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_138272819.1	GH5	422	pass	Parabacteroides merdae	in	none	100.0	11.3	2	1	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_167960555.1	GH5	423	pass	Bacteroides faecium	in	genus_AB	0.0	0.0	0	0	0	no transcript hit (>=60% id)	t1c_metatx_expression.tsv
+WP_176553131.1	GH5	424	pass	Bacteroides celer	in	genus_AB	0.0	0.0	0	0	0	no transcript hit (>=60% id)	t1c_metatx_expression.tsv
+WP_143259537.1	GH5	425	pass	Bacteroides luhongzhouii	in	genus_AB	85.7	18.4	47	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_289291681.1	GH5	426	pass	Bacteroides mucinivorans	in	genus_AB	77.9	26.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_044159271.1	GH5	427	pass	Bacteroides reticulotermitis JCM 10512	in	genus_AB	82.5	18.3	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_322932822.1	GH5	428	pass	Bacteroides mucinivorans	in	genus_AB	77.0	20.2	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_005651363.1	GH5	429	pass	Parabacteroides merdae	out	none	100.0	19.5	8	3	3	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_155162504.1	GH5	430	pass	Parabacteroides merdae	out	none	100.0	19.5	8	3	3	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_021862904.1	GH5	431	pass	Parabacteroides johnsonii	out	none	94.4	11.3	2	1	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_418214206.1	GH5	432	pass	Bacteroides difficilis	out	genus_AB	0.0	0.0	0	0	0	no transcript hit (>=60% id)	t1c_metatx_expression.tsv
+WP_183207484.1	GH5	433	pass	Bacteroides reticulotermitis JCM 10512	out	genus_AB	62.0	12.5	17	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_244983357.1	GH5	434	pass	Bacteroides luhongzhouii	out	genus_AB	64.0	13.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_004298445.1	GH5	435	pass	Bacteroides ovatus	out	genus_AB	100.0	16.3	10	5	5	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_074637444.1	GH5	436	pass	Bacteroides celer	out	genus_AB	96.3	16.3	10	5	4	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_330941909.1	GH5	437	pass	Bacteroides maternus	out	genus_AB	62.4	16.3	18	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_330941910.1	GH5	438	pass	Bacteroides maternus	out	genus_AB	62.5	14.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_007219508.1	GH5	439	pass	Bacteroides cellulosilyticus	out	genus_AB	61.4	11.7	19	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_322932994.1	GH5	440	pass	Bacteroides mucinivorans	out	genus_AB	0.0	0.0	0	0	0	no transcript hit (>=60% id)	t1c_metatx_expression.tsv
+WP_221648847.1	GH5	441	pass	Bacteroides mucinivorans	out	genus_AB	0.0	0.0	0	0	0	no transcript hit (>=60% id)	t1c_metatx_expression.tsv
+WP_025868124.1	GH5	442	pass	Bacteroides nordii	out	genus_AB	0.0	0.0	0	0	0	no transcript hit (>=60% id)	t1c_metatx_expression.tsv
+WP_223382051.1	GH5	443	pass	Bacteroides nordii	out	genus_AB	0.0	0.0	0	0	0	no transcript hit (>=60% id)	t1c_metatx_expression.tsv
+WP_004298404.1	GH5	444	pass	Bacteroides ovatus	out	genus_AB	0.0	0.0	0	0	0	no transcript hit (>=60% id)	t1c_metatx_expression.tsv
+WP_143259826.1	GH5	445	pass	Bacteroides luhongzhouii	out	genus_AB	0.0	0.0	0	0	0	no transcript hit (>=60% id)	t1c_metatx_expression.tsv
+WP_143258923.1	GH5	446	pass	Bacteroides luhongzhouii	out	genus_AB	0.0	0.0	0	0	0	no transcript hit (>=60% id)	t1c_metatx_expression.tsv
+WP_099147539.1	GH5	447	pass	Bacteroides celer	out	genus_AB	0.0	0.0	0	0	0	no transcript hit (>=60% id)	t1c_metatx_expression.tsv
+WP_330941540.1	GH5	448	pass	Bacteroides maternus	out	genus_AB	91.5	19.8	49	13	1	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_143259830.1	GH5	449	pass	Bacteroides luhongzhouii	out	genus_AB	0.0	0.0	0	0	0	no transcript hit (>=60% id)	t1c_metatx_expression.tsv
+WP_099147534.1	GH5	450	pass	Bacteroides celer	out	genus_AB	0.0	0.0	0	0	0	no transcript hit (>=60% id)	t1c_metatx_expression.tsv
+WP_143258925.1	GH5	451	pass	Bacteroides luhongzhouii	out	genus_AB	100.0	20.5	2	1	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_004298400.1	GH5	452	pass	Bacteroides ovatus	out	genus_AB	100.0	20.5	2	1	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_129615652.1	GH5	453	pass	Bacteroides cellulosilyticus	out	genus_AB	92.7	19.8	49	11	2	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_007661397.1	GH5	454	pass	Bacteroides intestinalis	out	genus_AB	90.2	19.8	48	19	3	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_143259987.1	GH5	455	pass	Bacteroides luhongzhouii	out	genus_AB	90.9	18.6	47	12	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_007482869.1	GH5	456	pass	Bacteroides mucinivorans;Bacteroides nordii	out	genus_AB	0.0	0.0	0	0	0	no transcript hit (>=60% id)	t1c_metatx_expression.tsv
+WP_008642318.1	GH5	457	pass	Bacteroides ovatus	out	genus_AB	68.6	26.5	50	1	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_143258973.1	GH5	458	pass	Bacteroides luhongzhouii	out	genus_AB	69.8	26.5	50	1	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_330941324.1	GH5	459	pass	Bacteroides maternus	out	genus_AB	93.1	26.6	50	21	2	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_195349545.1	GH5	460	pass	Bacteroides nordii	out	genus_AB	68.3	5.5	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_195508037.1	GH5	461	pass	Bacteroides cellulosilyticus	out	genus_AB	94.3	26.6	50	27	2	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_322932397.1	GH5	462	pass	Bacteroides mucinivorans	out	genus_AB	0.0	0.0	0	0	0	no transcript hit (>=60% id)	t1c_metatx_expression.tsv
+WP_223381583.1	GH5	463	pass	Bacteroides nordii	out	genus_AB	0.0	0.0	0	0	0	no transcript hit (>=60% id)	t1c_metatx_expression.tsv
+WP_322932399.1	GH5	464	pass	Bacteroides mucinivorans	out	genus_AB	60.0	7.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_195510788.1	GH5	465	pass	Bacteroides cellulosilyticus	out	genus_AB	87.1	13.0	39	3	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_099146530.1	GH5	466	pass	Bacteroides celer	out	genus_AB	85.9	13.0	38	3	1	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_044155378.1	GH5	467	pass	Bacteroides intestinalis	out	genus_AB	91.8	13.0	39	9	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_330942241.1	GH5	468	pass	Bacteroides maternus	out	genus_AB	90.6	13.5	39	9	0	expressed: high-identity transcript (>=90% id, >=50 aa)	t1c_metatx_expression.tsv
+WP_007660317.1	GH5	469	pass	Bacteroides intestinalis	out	genus_AB	73.2	19.0	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_317472972.1	GH5	470	pass	Bacteroides hominis	out	genus_AB	71.4	19.4	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv
+WP_060407601.1	GH5	471	pass	Bacteroides cellulosilyticus	out	genus_AB	93.0	20.1	50	3	1	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_291552798.1	GH5	472	pass	Bacteroides maternus	out	genus_AB	86.2	20.7	50	3	1	expressed: near-exact transcript (>=95% id, >=80 aa)	t1c_metatx_expression.tsv
+WP_005813231.1	GH5	473	pass	Bacteroides fragilis NCTC 9343	out	species_A	71.1	19.1	50	0	0	homolog transcript detected (60-90% id)	t1c_metatx_expression.tsv

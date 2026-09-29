@@ -1,0 +1,165 @@
+# source_data for Fig 2 — GH1 lineage boundary across four Bacteroidota orders | figure-round (presentation only)
+# rows=161 | all plotted values are read back from this file by the plot stage
+# provenance column gives the upstream read-only file + locator for every value
+block	entity	sub	field	value	num	den	text	provenance
+A_glyph	GCF_000025985.1	Bacteroidales	gh1	0			round4_31|Bacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_000172175.1	Bacteroidales	gh1	0			round4_31|Bacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_001314995.1	Bacteroidales	gh1	0			round4_31|Bacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_002257605.1	Bacteroidales	gh1	0			round4_31|Parabacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_002632415.2	Bacteroidales	gh1	0			round4_31|Bacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_009193295.2	Bacteroidales	gh1	0			round4_31|Bacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_012113595.1	Bacteroidales	gh1	0			round4_31|Bacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_014131755.1	Bacteroidales	gh1	0			round4_31|Bacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_017873595.1	Bacteroidales	gh1	0			round4_31|Parabacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_018279895.1	Bacteroidales	gh1	0			round4_31|Parabacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_018292125.1	Bacteroidales	gh1	0			round4_31|Bacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_018292205.1	Bacteroidales	gh1	0			round4_31|Bacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_019930665.1	Bacteroidales	gh1	0			round4_31|Bacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_020091425.1	Bacteroidales	gh1	0			round4_31|Parabacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_020091445.1	Bacteroidales	gh1	0			round4_31|Parabacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_020091505.1	Bacteroidales	gh1	0			round4_31|Bacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_023744375.2	Bacteroidales	gh1	0			round4_31|Parabacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_024759285.1	Bacteroidales	gh1	0			round4_31|Parabacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_025151045.1	Bacteroidales	gh1	0			round4_31|Parabacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_029369685.1	Bacteroidales	gh1	0			round4_31|Parabacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_031172035.1	Bacteroidales	gh1	0			round4_31|Bacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_033042785.2	Bacteroidales	gh1	0			round4_31|Bacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_034654355.2	Bacteroidales	gh1	0			round4_31|Bacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_036416795.1	Bacteroidales	gh1	0			round4_31|Bacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_048319815.1	Bacteroidales	gh1	0			round4_31|Bacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_049860805.1	Bacteroidales	gh1	0			round4_31|Parabacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_054506995.1	Bacteroidales	gh1	0			round4_31|Parabacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_055398035.1	Bacteroidales	gh1	0			round4_31|Bacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_900445495.1	Bacteroidales	gh1	0			round4_31|Parabacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_988228595.1	Bacteroidales	gh1	0			round4_31|Parabacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_988238815.1	Bacteroidales	gh1	0			round4_31|Parabacteroides	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_001262015.1	Bacteroidales	gh1	0			sentinel_10|Prevotella	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_025144995.1	Bacteroidales	gh1	0			sentinel_10|Alistipes	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_020097375.1	Bacteroidales	gh1	0			sentinel_10|Porphyromonas	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_900187175.1	Bacteroidales	gh1	0			sentinel_10|Odoribacter	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_000512915.1	Bacteroidales	gh1	0			sentinel_10|Barnesiella	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_000190575.1	Bacteroidales	gh1	0			sentinel_10|Phocaeicola	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_028736155.1	Flavobacteriales	gh1	1			sentinel_10|Flavobacterium	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_002302565.1	Flavobacteriales	gh1	0			sentinel_10|Capnocytophaga	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_016725645.1	Sphingobacteriales	gh1	1			sentinel_10|Sphingobacterium	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_001021975.1	Flavobacteriales	gh1	0			sentinel_10|Chryseobacterium	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_055385135.1	Bacteroidales	gh1	0			round7_45|Prevotella	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_055390445.1	Bacteroidales	gh1	0			round7_45|Prevotella	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_055381405.1	Bacteroidales	gh1	0			round7_45|Prevotella	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_022024115.1	Bacteroidales	gh1	0			round7_45|Prevotella	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_025144665.1	Bacteroidales	gh1	0			round7_45|Alistipes	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_025145845.1	Bacteroidales	gh1	0			round7_45|Alistipes	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_006542645.1	Bacteroidales	gh1	0			round7_45|Alistipes	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_055384205.1	Bacteroidales	gh1	0			round7_45|Porphyromonas	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_036320655.1	Bacteroidales	gh1	0			round7_45|Porphyromonas	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_022845615.1	Bacteroidales	gh1	0			round7_45|Porphyromonas	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_988233775.1	Bacteroidales	gh1	0			round7_45|Odoribacter	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_000243215.1	Bacteroidales	gh1	0			round7_45|Odoribacter	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_003479425.1	Bacteroidales	gh1	0			round7_45|Odoribacter	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_988228745.1	Bacteroidales	gh1	0			round7_45|Barnesiella	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_023656675.1	Bacteroidales	gh1	0			round7_45|Barnesiella	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_988228865.1	Bacteroidales	gh1	0			round7_45|Barnesiella	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_055386955.1	Bacteroidales	gh1	0			round7_45|Phocaeicola	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_016888945.1	Bacteroidales	gh1	0			round7_45|Phocaeicola	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_013009555.1	Bacteroidales	gh1	0			round7_45|Phocaeicola	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_001717525.2	Bacteroidales	gh1	0			round7_45|Tannerella	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_000238215.1	Bacteroidales	gh1	0			round7_45|Tannerella	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_001547855.1	Bacteroidales	gh1	0			round7_45|Tannerella	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_000427365.1	Bacteroidales	gh1	0			round7_45|Rikenella	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_001688845.2	Bacteroidales	gh1	0			round7_45|Muribaculum	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_004803695.1	Bacteroidales	gh1	0			round7_45|Muribaculum	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_058596255.1	Bacteroidales	gh1	0			round7_45|Muribaculum	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_057180085.1	Flavobacteriales	gh1	0			round7_45|Flavobacterium	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_048282555.1	Flavobacteriales	gh1	1			round7_45|Flavobacterium	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_047038255.1	Flavobacteriales	gh1	0			round7_45|Flavobacterium	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_042182265.1	Flavobacteriales	gh1	0			round7_45|Flavobacterium	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_040703125.1	Flavobacteriales	gh1	0			round7_45|Flavobacterium	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_043187445.1	Flavobacteriales	gh1	0			round7_45|Capnocytophaga	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_002302415.1	Flavobacteriales	gh1	0			round7_45|Capnocytophaga	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_002302475.1	Flavobacteriales	gh1	0			round7_45|Capnocytophaga	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_050990625.1	Flavobacteriales	gh1	0			round7_45|Chryseobacterium	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_030012525.1	Flavobacteriales	gh1	0			round7_45|Chryseobacterium	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_027945075.1	Flavobacteriales	gh1	1			round7_45|Chryseobacterium	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_976997495.1	Sphingobacteriales	gh1	2			round7_45|Sphingobacterium	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_050986225.1	Sphingobacteriales	gh1	1			round7_45|Sphingobacterium	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_054461315.1	Sphingobacteriales	gh1	1			round7_45|Pedobacter	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_052343045.1	Sphingobacteriales	gh1	1			round7_45|Pedobacter	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_000014145.1	Cytophagales	gh1	1			round7_45|Cytophaga	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_000379725.1	Cytophagales	gh1	1			round7_45|Cytophaga	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_021233055.1	Cytophagales	gh1	3			round7_45|Spirosoma	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_glyph	GCF_023821985.2	Cytophagales	gh1	2			round7_45|Dyadobacter	official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_order_seg	Bacteroidales	round4_31	n	31				official_strain_cazyme_matrix_round4.tsv
+A_order_seg	Bacteroidales	sentinel_10	n	6				official_strain_cazyme_matrix_round4.tsv
+A_order_seg	Bacteroidales	round7_45	n	26				official_strain_cazyme_matrix_round4.tsv
+A_order	Bacteroidales		n_strains	63				official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_order	Bacteroidales		n_genera	11				official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_order	Bacteroidales		n_families	8			families counted over sentinel+round7 taxonomy columns (round4 matrix has no family column; not imputed)	sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_order	Bacteroidales		gh1_positive	0				official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_order	Bacteroidales		detection_rate	0.0	0	63		aggregation of delivered per-strain counts
+A_order_seg	Flavobacteriales	round4_31	n	0				official_strain_cazyme_matrix_round4.tsv
+A_order_seg	Flavobacteriales	sentinel_10	n	3				official_strain_cazyme_matrix_round4.tsv
+A_order_seg	Flavobacteriales	round7_45	n	11				official_strain_cazyme_matrix_round4.tsv
+A_order	Flavobacteriales		n_strains	14				official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_order	Flavobacteriales		n_genera	3				official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_order	Flavobacteriales		n_families	2			families counted over sentinel+round7 taxonomy columns (round4 matrix has no family column; not imputed)	sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_order	Flavobacteriales		gh1_positive	3				official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_order	Flavobacteriales		detection_rate	0.21428571428571427	3	14		aggregation of delivered per-strain counts
+A_order_seg	Sphingobacteriales	round4_31	n	0				official_strain_cazyme_matrix_round4.tsv
+A_order_seg	Sphingobacteriales	sentinel_10	n	1				official_strain_cazyme_matrix_round4.tsv
+A_order_seg	Sphingobacteriales	round7_45	n	4				official_strain_cazyme_matrix_round4.tsv
+A_order	Sphingobacteriales		n_strains	5				official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_order	Sphingobacteriales		n_genera	2				official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_order	Sphingobacteriales		n_families	1			families counted over sentinel+round7 taxonomy columns (round4 matrix has no family column; not imputed)	sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_order	Sphingobacteriales		gh1_positive	5				official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_order	Sphingobacteriales		detection_rate	1.0	5	5		aggregation of delivered per-strain counts
+A_order_seg	Cytophagales	round4_31	n	0				official_strain_cazyme_matrix_round4.tsv
+A_order_seg	Cytophagales	sentinel_10	n	0				official_strain_cazyme_matrix_round4.tsv
+A_order_seg	Cytophagales	round7_45	n	4				official_strain_cazyme_matrix_round4.tsv
+A_order	Cytophagales		n_strains	4				official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_order	Cytophagales		n_genera	3				official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_order	Cytophagales		n_families	2			families counted over sentinel+round7 taxonomy columns (round4 matrix has no family column; not imputed)	sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_order	Cytophagales		gh1_positive	4				official_strain_cazyme_matrix_round4.tsv;sentinel_10strains_matrix.tsv;official_strain_cazyme_matrix_round7.tsv
+A_order	Cytophagales		detection_rate	1.0	4	4		aggregation of delivered per-strain counts
+B_wilson	Bacteroidales		wilson95_upper_pct	5.75	0	63	GH1 检出率 Wilson 上限（引用）	tables/t4_number_provenance.tsv R9-M31 (= round8 M52)
+C_datasets	round4_31		n_strains	31				task3_2_three_datasets_parallel.tsv
+C_datasets	round4_31		gh1_zero_n	31				task3_2_three_datasets_parallel.tsv
+C_datasets	round4_31		gh1_zero_prop	1.0				task3_2_three_datasets_parallel.tsv
+C_datasets	round4_31		gh1_positive_wilson95_upper	0.1103				task3_2_three_datasets_parallel.tsv
+C_datasets	round4_31		composition				round4_Bacteroidota_31 (Bacteroides 17 + Parabacteroides 14; all Bacteroidales)	task3_2_three_datasets_parallel.tsv
+C_datasets	sentinel_10		n_strains	10				task3_2_three_datasets_parallel.tsv
+C_datasets	sentinel_10		gh1_zero_n	8				task3_2_three_datasets_parallel.tsv
+C_datasets	sentinel_10		gh1_zero_prop	0.8				task3_2_three_datasets_parallel.tsv
+C_datasets	sentinel_10		gh1_positive_wilson95_upper	0.5098				task3_2_three_datasets_parallel.tsv
+C_datasets	sentinel_10		composition				sentinel_10 (6 Bacteroidales + 3 Flavobacteriales + 1 Sphingobacteriales)	task3_2_three_datasets_parallel.tsv
+C_datasets	round7_45		n_strains	45				task3_2_three_datasets_parallel.tsv
+C_datasets	round7_45		gh1_zero_n	35				task3_2_three_datasets_parallel.tsv
+C_datasets	round7_45		gh1_zero_prop	0.7778				task3_2_three_datasets_parallel.tsv
+C_datasets	round7_45		gh1_positive_wilson95_upper	0.3627				task3_2_three_datasets_parallel.tsv
+C_datasets	round7_45		composition				round7_new_45 (L1 Bacteroidales 26 / L2 Flavobacteriales 11 / L3 Cytophagales 4 + Sphingobacteriales 4)	task3_2_three_datasets_parallel.tsv
+D_threshold	official_full_filter	0	1e-15	0				t5_gh23_control_curves.tsv
+D_threshold	official_full_filter	1	1e-10	0				t5_gh23_control_curves.tsv
+D_threshold	official_full_filter	2	1e-05	0				t5_gh23_control_curves.tsv
+D_threshold	official_full_filter	3	0.001	0				t5_gh23_control_curves.tsv
+D_threshold	A_official_full_filters	0	1e-15	0				t5_gh1_threshold_curve.tsv
+D_threshold	A_official_full_filters	1	1e-10	0				t5_gh1_threshold_curve.tsv
+D_threshold	A_official_full_filters	2	1e-05	3				t5_gh1_threshold_curve.tsv
+D_threshold	A_official_full_filters	3	0.001	4				t5_gh1_threshold_curve.tsv
+D_threshold	B_ievalue_only_no_cov	0	1e-15	0				t5_gh1_threshold_curve.tsv
+D_threshold	B_ievalue_only_no_cov	1	1e-10	0				t5_gh1_threshold_curve.tsv
+D_threshold	B_ievalue_only_no_cov	2	1e-05	12				t5_gh1_threshold_curve.tsv
+D_threshold	B_ievalue_only_no_cov	3	0.001	24				t5_gh1_threshold_curve.tsv
+meta	threshold_order	0	name				1e-15	task spec
+meta	threshold_order	1	name				1e-10	task spec
+meta	threshold_order	2	name				1e-05	task spec
+meta	threshold_order	3	name				0.001	task spec
+meta	order_row	0	name				Bacteroidales	shared_style.ORDER_ROW
+meta	order_row	1	name				Flavobacteriales	shared_style.ORDER_ROW
+meta	order_row	2	name				Sphingobacteriales	shared_style.ORDER_ROW
+meta	order_row	3	name				Cytophagales	shared_style.ORDER_ROW
+meta	dataset_order	0	name				round4_31	handoff §4 ledger
+meta	dataset_tag	round4_31	name				r4 (31)	handoff §4 ledger
+meta	dataset_order	1	name				sentinel_10	handoff §4 ledger
+meta	dataset_tag	sentinel_10	name				sent. (6)	handoff §4 ledger
+meta	dataset_order	2	name				round7_45	handoff §4 ledger
+meta	dataset_tag	round7_45	name				r7 (26)	handoff §4 ledger
+meta	glyph	meaning	square	1.0			one square = one genome; hollow vermillion = GH1 not detected; solid blue = GH1 detected	design
